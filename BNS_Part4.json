@@ -1,0 +1,3602 @@
+{
+    
+    "data": [
+      {
+        "title": "Theft and Criminal Misappropriation",
+        "paragraphs": [
+          {
+            "context": "A finds a ring belonging to Z on a table in Z’s house. The ring is in Z’s possession, and if A removes it dishonestly, A commits theft.",
+            "qas": [
+              {
+                "question": "What constitutes theft when A finds a ring in Z’s house and removes it dishonestly?",
+                "id": "q1",
+                "answers": [
+                  {
+                    "text": "A commits theft by dishonestly removing the ring from Z’s possession.",
+                    "answer_start": 86
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "A finds a ring on the highroad, not in anyone’s possession. Taking it is not theft, but A may commit criminal misappropriation.",
+            "qas": [
+              {
+                "question": "Why does A not commit theft when finding a ring on the highroad but may commit criminal misappropriation?",
+                "id": "q2",
+                "answers": [
+                  {
+                    "text": "Because the ring is not in anyone’s possession, it does not constitute theft, but A may still be guilty of criminal misappropriation.",
+                    "answer_start": 55
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "A sees Z’s ring on a table in Z’s house. Afraid of being caught, A hides it where Z is unlikely to find it, planning to take it later. A commits theft upon first moving it.",
+            "qas": [
+              {
+                "question": "At what point does A commit theft when hiding Z’s ring in Z’s house to take it later?",
+                "id": "q3",
+                "answers": [
+                  {
+                    "text": "A commits theft upon first moving it.",
+                    "answer_start": 152
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Possession and Security in Theft",
+        "paragraphs": [
+          {
+            "context": "A gives his watch to Z, a jeweler, for regulation. Z takes it to his shop. A, without owing Z any debt, forcibly takes it back. A may commit trespass or assault but not theft.",
+            "qas": [
+              {
+                "question": "Why does A not commit theft when forcibly taking back his watch from Z’s shop without a debt?",
+                "id": "q4",
+                "answers": [
+                  {
+                    "text": "Because A does not owe Z any debt, forcibly taking back the watch may be trespass or assault but not theft.",
+                    "answer_start": 116
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "If A owes Z for watch repairs and Z lawfully retains it as security, A commits theft if he takes it back dishonestly, depriving Z of his security.",
+            "qas": [
+              {
+                "question": "Under what condition does A commit theft when taking back his watch that Z lawfully retains as security for repairs?",
+                "id": "q5",
+                "answers": [
+                  {
+                    "text": "A commits theft if he takes it back dishonestly, depriving Z of his security.",
+                    "answer_start": 86
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "If A pawns his watch to Z and reclaims it without Z’s consent or repaying the loan, he commits theft, even though the watch is his.",
+            "qas": [
+              {
+                "question": "Why does A commit theft when reclaiming his pawned watch without Z’s consent or repaying the loan?",
+                "id": "q6",
+                "answers": [
+                  {
+                    "text": "Because A reclaims the watch dishonestly without Z’s consent or repaying the loan, constituting theft.",
+                    "answer_start": 86
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intent and Dishonesty in Theft",
+        "paragraphs": [
+          {
+            "context": "A takes Z’s article without consent, intending to return it only if Z pays a reward. Since A acts dishonestly, he commits theft.",
+            "qas": [
+              {
+                "question": "Why does A commit theft if he takes Z’s article without consent and intends to return it only if Z pays a reward?",
+                "id": "q7",
+                "answers": [
+                  {
+                    "text": "Because A acts dishonestly by conditioning the return of Z’s property on a reward.",
+                    "answer_start": 98
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "A, being friendly with Z, borrows a book from Z’s library in his absence, intending to return it. If A believed Z’s implied consent, he has not committed theft.",
+            "qas": [
+              {
+                "question": "Why does A not commit theft if he borrows a book from Z’s library, believing in Z’s implied consent?",
+                "id": "q8",
+                "answers": [
+                  {
+                    "text": "Because A believed in Z’s implied consent, he did not act dishonestly.",
+                    "answer_start": 104
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Theft and Third-Party Authorization",
+        "paragraphs": [
+          {
+            "context": "A asks Z’s wife for charity. She gives A money, food, and clothes belonging to Z. If A believed she was authorized to do so, he has not committed theft.",
+            "qas": [
+              {
+                "question": "Under what condition does A not commit theft when accepting money, food, and clothes from Z’s wife as charity?",
+                "id": "q9",
+                "answers": [
+                  {
+                    "text": "If A believed she was authorized to give the money, food, and clothes.",
+                    "answer_start": 86
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "A is Z’s wife’s paramour. She gives A valuable property belonging to Z without Z’s permission. If A takes it dishonestly, he commits theft.",
+            "qas": [
+              {
+                "question": "Why does A commit theft if he dishonestly takes valuable property given to him by Z’s wife without Z’s permission?",
+                "id": "q10",
+                "answers": [
+                  {
+                    "text": "Because A takes Z’s property dishonestly without Z’s permission.",
+                    "answer_start": 104
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Good Faith and Theft Exceptions",
+        "paragraphs": [
+          {
+            "context": "A, believing in good faith that Z’s property is his, takes it. Since A lacks dishonest intent, he does not commit theft.",
+            "qas": [
+              {
+                "question": "Why does A not commit theft if he takes Z’s property believing in good faith that it is his?",
+                "id": "q11",
+                "answers": [
+                  {
+                    "text": "Because A lacks dishonest intent, he does not commit theft.",
+                    "answer_start": 92
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
+
+
+
+  {
+    
+    "data": [
+      {
+        "title": "Snatching and Aggravated Theft",
+        "paragraphs": [
+          {
+            "context": "Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.",
+            "qas": [
+              {
+                "question": "What defines theft as snatching?",
+                "id": "q3",
+                "answers": [
+                  {
+                    "text": "If the offender suddenly or quickly or forcibly seizes or grabs or takes away movable property from any person or from their possession.",
+                    "answer_start": 18
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits snatching, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for committing snatching?",
+                "id": "q4",
+                "answers": [
+                  {
+                    "text": "Imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+                    "answer_start": 39
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits theft in any building, tent or vessel used as a human dwelling or used for the custody of property; or of any means of transport used for the transport of goods or passengers; or of any article or goods from any means of transport used for the transport of goods or passengers; or of idol or icon in any place of worship; or of any property of the Government or of a local authority, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for theft in a dwelling, transport, place of worship, or government property?",
+                "id": "q5",
+                "answers": [
+                  {
+                    "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                    "answer_start": 438
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for theft committed by a clerk or servant?",
+                "id": "q6",
+                "answers": [
+                  {
+                    "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                    "answer_start": 219
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Theft with Preparation for Harm and Extortion",
+        "paragraphs": [
+          {
+            "context": "Whoever commits theft, having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person, in order to the committing of such theft, or in order to the effecting of his escape after the committing of such theft, or in order to the retaining of property taken by such theft, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for theft involving preparation for harm or fear?",
+                "id": "q7",
+                "answers": [
+                  {
+                    "text": "Rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+                    "answer_start": 328
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.",
+            "qas": [
+              {
+                "question": "What constitutes extortion?",
+                "id": "q8",
+                "answers": [
+                  {
+                    "text": "Intentionally putting any person in fear of injury and dishonestly inducing them to deliver property, security, or anything signed or sealed.",
+                    "answer_start": 7
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Snatching and Aggravated Theft",
+        "paragraphs": [
+          {
+            "context": "Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.",
+            "qas": [
+              {
+                "question": "What defines theft as snatching?",
+                "id": "q3",
+                "answers": [
+                  {
+                    "text": "If the offender suddenly or quickly or forcibly seizes or grabs or takes away movable property from any person or from their possession.",
+                    "answer_start": 18
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits snatching, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for committing snatching?",
+                "id": "q4",
+                "answers": [
+                  {
+                    "text": "Imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+                    "answer_start": 39
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits theft in any building, tent or vessel used as a human dwelling or used for the custody of property; or of any means of transport used for the transport of goods or passengers; or of any article or goods from any means of transport used for the transport of goods or passengers; or of idol or icon in any place of worship; or of any property of the Government or of a local authority, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for theft in a dwelling, transport, place of worship, or government property?",
+                "id": "q5",
+                "answers": [
+                  {
+                    "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                    "answer_start": 438
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for theft committed by a clerk or servant?",
+                "id": "q6",
+                "answers": [
+                  {
+                    "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                    "answer_start": 219
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Theft with Preparation for Harm and Extortion",
+        "paragraphs": [
+          {
+            "context": "Whoever commits theft, having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person, in order to the committing of such theft, or in order to the effecting of his escape after the committing of such theft, or in order to the retaining of property taken by such theft, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for theft involving preparation for harm or fear?",
+                "id": "q7",
+                "answers": [
+                  {
+                    "text": "Rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+                    "answer_start": 328
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.",
+            "qas": [
+              {
+                "question": "What constitutes extortion?",
+                "id": "q8",
+                "answers": [
+                  {
+                    "text": "Intentionally putting any person in fear of injury and dishonestly inducing them to deliver property, security, or anything signed or sealed.",
+                    "answer_start": 7
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+
+
+
+{
+  "data": [
+    {
+      "title": "Extortion",
+      "paragraphs": [
+        {
+          "context": "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.",
+          "qas": [
+            {
+              "question": "What constitutes extortion?",
+              "id": "q9",
+              "answers": [
+                {
+                  "text": "Intentionally putting any person in fear of injury and dishonestly inducing them to deliver property, security, or anything signed or sealed.",
+                  "answer_start": 7
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+          "qas": [
+            {
+              "question": "What is the punishment for committing extortion?",
+              "id": "q10",
+              "answers": [
+                {
+                  "text": "Imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+                  "answer_start": 147
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Whoever, in order to the committing of extortion, puts any person in fear, or attempts to put any person in fear, of any injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+          "qas": [
+            {
+              "question": "What is the punishment for putting a person in fear to commit extortion?",
+              "id": "q11",
+              "answers": [
+                {
+                  "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                  "answer_start": 221
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+          "qas": [
+            {
+              "question": "What is the punishment for putting a person in fear of death or grievous hurt during extortion?",
+              "id": "q12",
+              "answers": [
+                {
+                  "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                  "answer_start": 366
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Whoever commits extortion by putting any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+          "qas": [
+            {
+              "question": "What is the punishment for extortion involving fear of death or grievous hurt?",
+              "id": "q13",
+              "answers": [
+                {
+                  "text": "Imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+                  "answer_start": 486
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of an accusation, against that person or any other, of having committed, or attempted to commit, an offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+          "qas": [
+            {
+              "question": "What is the punishment for putting a person in fear of an accusation of serious crimes during extortion?",
+              "id": "q14",
+              "answers": [
+                {
+                  "text": "Imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+                  "answer_start": 617
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+          "qas": [
+            {
+              "question": "What is the punishment for extortion involving a fear of serious accusation or inducement to commit serious crimes?",
+              "id": "q15",
+              "answers": [
+                {
+                  "text": "Imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+                  "answer_start": 756
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Robbery and Dacoity",
+      "paragraphs": []
+    }
+  ]
+}
+
+
+
+
+
+{
+    "data": [
+      {
+        "title": "Robbery and Dacoity",
+        "paragraphs": [
+          {
+            "context": "In all robbery there is either theft or extortion.",
+            "qas": [
+              {
+                "question": "What is the basis of robbery?",
+                "id": "q16",
+                "answers": [
+                  {
+                    "text": "Robbery involves either theft or extortion.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.",
+            "qas": [
+              {
+                "question": "When does theft become robbery?",
+                "id": "q17",
+                "answers": [
+                  {
+                    "text": "When the offender causes or attempts to cause death, hurt, wrongful restraint, or fear of instant death, hurt, or wrongful restraint in the process of committing theft.",
+                    "answer_start": 108
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Extortion is robbery if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person so put in fear then and there to deliver up the thing extorted.",
+            "qas": [
+              {
+                "question": "When does extortion become robbery?",
+                "id": "q18",
+                "answers": [
+                  {
+                    "text": "When the offender is present and induces fear of instant death, hurt, or wrongful restraint, causing the person to deliver the extorted thing.",
+                    "answer_start": 204
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "The offender is said to be present if he is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.",
+            "qas": [
+              {
+                "question": "What does 'presence' mean in the context of robbery and extortion?",
+                "id": "q19",
+                "answers": [
+                  {
+                    "text": "Presence means being sufficiently near to put the other person in fear of instant death, hurt, or wrongful restraint.",
+                    "answer_start": 335
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "A holds Z down, and fraudulently takes Z’s money and jewels from Z’s clothes, without Z’s consent. Here A has committed theft, and, in order to the committing of that theft, has voluntarily caused wrongful restraint to Z. A has therefore committed robbery.",
+            "qas": [
+              {
+                "question": "What crime has A committed in this illustration?",
+                "id": "q20",
+                "answers": [
+                  {
+                    "text": "A has committed robbery, as he caused wrongful restraint while committing theft.",
+                    "answer_start": 438
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Theft and Snatching",
+        "paragraphs": [
+          {
+            "context": "Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.",
+            "qas": [
+              {
+                "question": "What defines theft as snatching?",
+                "id": "q21",
+                "answers": [
+                  {
+                    "text": "Theft is snatching when the offender suddenly, quickly, or forcibly takes away property from a person or their possession.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits snatching, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for committing snatching?",
+                "id": "q22",
+                "answers": [
+                  {
+                    "text": "The punishment for snatching is imprisonment for up to three years and a fine.",
+                    "answer_start": 82
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits theft— (a) in any building, tent or vessel used as a human dwelling or used for the custody of property; or (b) of any means of transport used for the transport of goods or passengers; or (c) of any article or goods from any means of transport used for the transport of goods or passengers; or (d) of idol or icon in any place of worship; or (e) of any property of the Government or of a local authority, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What are the punishments for theft in specific circumstances?",
+                "id": "q23",
+                "answers": [
+                  {
+                    "text": "The punishment for theft in specific circumstances is imprisonment for up to seven years and a fine.",
+                    "answer_start": 153
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for a clerk or servant committing theft?",
+                "id": "q24",
+                "answers": [
+                  {
+                    "text": "A clerk or servant committing theft in the possession of their employer will be punished with imprisonment for up to seven years and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits theft, having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person, in order to the committing of such theft, or in order to the effecting of his escape after the committing of such theft, or in order to the retaining of property taken by such theft, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for theft involving preparation for death, hurt, or restraint?",
+                "id": "q25",
+                "answers": [
+                  {
+                    "text": "The punishment is rigorous imprisonment for up to ten years and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations. (a) A commits theft on property in Z’s possession; and while committing this theft, he has a loaded pistol under his garment, having provided this pistol for the purpose of hurting Z in case Z should resist. A has committed the offence defined in this section. (b) A picks Z’s pocket, having posted several of his companions near him, in order that they may restrain Z, if Z should perceive what is passing and should resist, or should attempt to apprehend A. A has committed the offence defined in this section.",
+            "qas": [
+              {
+                "question": "What is illustrated in these examples?",
+                "id": "q26",
+                "answers": [
+                  {
+                    "text": "These examples illustrate that when theft is committed with preparation to cause harm or restraint, it is considered a more severe offence.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+
+  {
+    "data": [
+      {
+        "title": "Extortion",
+        "paragraphs": [
+          {
+            "context": "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.",
+            "qas": [
+              {
+                "question": "What defines extortion?",
+                "id": "q27",
+                "answers": [
+                  {
+                    "text": "Extortion is when a person intentionally puts someone in fear of injury and dishonestly induces them to deliver property or valuable security.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations. (a) A threatens to publish a defamatory libel concerning Z unless Z gives him money. He thus induces Z to give him money. A has committed extortion. (b) A threatens Z that he will keep Z’s child in wrongful confinement, unless Z will sign and deliver to A a promissory note binding Z to pay certain monies to A. Z signs and delivers the note. A has committed extortion. (c) A threatens to send club-men to plough up Z’s field unless Z will sign and deliver to B a bond binding Z under a penalty to deliver certain produce to B, and thereby induces Z to sign and deliver the bond. A has committed extortion. (d) A, by putting Z in fear of grievous hurt, dishonestly induces Z to sign or affix his seal to a blank paper and deliver it to A. Z signs and delivers the paper to A. Here, as the paper so signed may be converted into a valuable security, A has committed extortion. (e) A threatens Z by sending a message through an electronic device that “Your child is in my possession, and will be put to death unless you send me one lakh rupees.” A thus induces Z to give him money. A has committed extortion.",
+            "qas": [
+              {
+                "question": "What are some examples of extortion?",
+                "id": "q28",
+                "answers": [
+                  {
+                    "text": "Examples of extortion include threatening to publish defamatory libel, wrongful confinement, damaging property, or threatening death in exchange for money or valuables.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+            "qas": [
+              {
+                "question": "What is the punishment for committing extortion?",
+                "id": "q29",
+                "answers": [
+                  {
+                    "text": "The punishment for committing extortion is imprisonment for up to seven years, or a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever, in order to the committing of extortion, puts any person in fear, or attempts to put any person in fear, of any injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+            "qas": [
+              {
+                "question": "What is the punishment for attempting to put someone in fear of injury in order to commit extortion?",
+                "id": "q30",
+                "answers": [
+                  {
+                    "text": "The punishment is imprisonment for up to two years, or a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for putting someone in fear of death or grievous hurt to commit extortion?",
+                "id": "q31",
+                "answers": [
+                  {
+                    "text": "The punishment is imprisonment for up to seven years and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits extortion by putting any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for committing extortion by putting someone in fear of death or grievous hurt?",
+                "id": "q32",
+                "answers": [
+                  {
+                    "text": "The punishment is imprisonment for up to ten years and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of an accusation, against that person or any other, of having committed, or attempted to commit, an offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for putting someone in fear of an accusation of a serious crime to commit extortion?",
+                "id": "q33",
+                "answers": [
+                  {
+                    "text": "The punishment is imprisonment for up to ten years and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for extortion involving fear of an accusation of a serious offence?",
+                "id": "q34",
+                "answers": [
+                  {
+                    "text": "The punishment is imprisonment for up to ten years and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+
+  {
+    "data": [
+      {
+        "title": "Robbery",
+        "paragraphs": [
+          {
+            "context": "In all robbery there is either theft or extortion.",
+            "qas": [
+              {
+                "question": "What constitutes robbery?",
+                "id": "q35",
+                "answers": [
+                  {
+                    "text": "Robbery involves either theft or extortion.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.",
+            "qas": [
+              {
+                "question": "When does theft become robbery?",
+                "id": "q36",
+                "answers": [
+                  {
+                    "text": "Theft becomes robbery if the offender causes or attempts to cause death, hurt, wrongful restraint, or fear of instant death, hurt, or wrongful restraint during or in the process of committing the theft.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Extortion is robbery if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint.",
+            "qas": [
+              {
+                "question": "When does extortion become robbery?",
+                "id": "q37",
+                "answers": [
+                  {
+                    "text": "Extortion becomes robbery if the offender is in the presence of the person being extorted and induces fear of instant death, hurt, or wrongful restraint.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations. (b) A meets Z on the high road, shows a pistol, and demands Z’s purse. Z, in consequence, surrenders his purse. Here A has extorted the purse from Z by putting him in fear of instant hurt, and being at the time of committing the extortion in his presence. A has therefore committed robbery. (c) A meets Z and Z’s child on the high road. A takes the child, and threatens to fling it down a precipice, unless Z delivers his purse. Z, in consequence, delivers his purse. Here A has extorted the purse from Z, by causing Z to be in fear of instant hurt to the child who is there present. A has therefore committed robbery on Z. (d) A obtains property from Z by saying—'Your child is in the hands of my gang, and will be put to death unless you send us ten thousand rupees.' This is extortion, and punishable as such; but it is not robbery, unless Z is put in fear of the instant death of his child.",
+            "qas": [
+              {
+                "question": "What are examples of robbery involving extortion?",
+                "id": "q38",
+                "answers": [
+                  {
+                    "text": "Examples include threatening to harm a person or their child to extort property, as in the cases where a person demands money under the threat of death or injury.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+
+  {
+    "data": [
+      {
+        "title": "Section 313 & Section 314",
+        "paragraphs": [
+          {
+            "context": "Section 313: Anyone who is part of a group involved in regularly committing theft or robbery (not a group of dacoits) can be punished with up to seven years of rigorous imprisonment and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for being part of a group regularly committing theft or robbery?",
+                "id": "q39",
+                "answers": [
+                  {
+                    "text": "The punishment for being part of a group involved in regular theft or robbery can be up to seven years of rigorous imprisonment and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 314: Anyone who dishonestly takes or uses someone else's movable property, intending to keep it for themselves, can be punished with at least six months of imprisonment, up to two years, and may also be fined.",
+            "qas": [
+              {
+                "question": "What is the punishment for dishonestly taking someone else's property with the intent to keep it?",
+                "id": "q40",
+                "answers": [
+                  {
+                    "text": "The punishment for dishonestly taking someone else's movable property with the intent to keep it is at least six months of imprisonment, up to two years, and possibly a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Examples:\n(a) A takes Z’s property, thinking it’s his own, but later finds out it belongs to Z. If A then keeps it for himself, he’s guilty.\n(b) A, thinking he has permission from Z to borrow a book, takes it without asking. If A later sells the book, he is guilty.\n(c) A and B own a horse together. A takes the horse from B to use it. But if A sells the horse and keeps the money, he is guilty.",
+            "qas": [
+              {
+                "question": "What are some examples of misappropriation of property?",
+                "id": "q41",
+                "answers": [
+                  {
+                    "text": "Examples of misappropriation include taking someone else's property, thinking it's your own, and then keeping it, or taking a property without permission and selling it.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanations: Even if someone takes property intending to return it, using it for themselves makes them guilty of misappropriation.\nExample: A finds a government note belonging to Z and uses it as security for a loan, intending to return it later. A has committed an offense.\nIf someone finds property and takes it to protect it or return it to the owner, it’s not an offense. But if they take it for themselves or don’t try to find the owner, they’re guilty.\nExample: A finds a rupee on the road, not knowing who it belongs to. A has not committed an offense.\nExample: A finds a letter with a bank note and figures out who it belongs to but keeps the money. A is guilty.",
+            "qas": [
+              {
+                "question": "When is it considered misappropriation of property?",
+                "id": "q42",
+                "answers": [
+                  {
+                    "text": "It is considered misappropriation if someone takes property with the intent to use it for themselves or does not make efforts to return it, even if they initially intended to return it.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "In summary, if you take someone else's property with the intent to use it for yourself, or don’t make efforts to return it, it’s considered a crime.",
+            "qas": [
+              {
+                "question": "What is the summary of Section 314 regarding misappropriation?",
+                "id": "q43",
+                "answers": [
+                  {
+                    "text": "The summary of Section 314 is that taking someone else's property with the intent to use it for yourself or failing to return it is considered a crime.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  {
+    "data": [
+      {
+        "title": "Section 315 & Section 316",
+        "paragraphs": [
+          {
+            "context": "Section 315: Anyone who dishonestly takes or uses property that belonged to someone who has passed away, knowing it was in their possession at the time of their death and has not yet been claimed by someone legally entitled to it, can be punished with imprisonment for up to three years and may also be fined. If the person was employed by the deceased (as a clerk or servant), the punishment can extend to seven years.",
+            "qas": [
+              {
+                "question": "What is the punishment for dishonestly taking or using property belonging to a deceased person?",
+                "id": "q44",
+                "answers": [
+                  {
+                    "text": "The punishment for dishonestly taking or using property belonging to a deceased person is imprisonment for up to three years, or a fine. If the person was employed by the deceased, the punishment can extend to seven years.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example: Z dies leaving behind furniture and money. His servant A takes the money before it is legally handed over to the rightful person. A is guilty under this section.",
+            "qas": [
+              {
+                "question": "Give an example of someone being guilty under Section 315.",
+                "id": "q45",
+                "answers": [
+                  {
+                    "text": "An example of someone being guilty under Section 315 is when A, the servant of a deceased person, takes money before it is legally handed over to the rightful person.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 316: If someone is entrusted with property or authority over property and dishonestly uses or takes that property for themselves, or fails to follow legal or contractual instructions on how to handle it, they commit criminal breach of trust. If they allow someone else to do this, they are also guilty.",
+            "qas": [
+              {
+                "question": "What constitutes criminal breach of trust under Section 316?",
+                "id": "q46",
+                "answers": [
+                  {
+                    "text": "Criminal breach of trust occurs when someone entrusted with property or authority over property dishonestly uses or takes the property for themselves or fails to follow legal or contractual instructions on handling it.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Examples: If an employer deducts the employee's contribution for a Provident Fund but does not deposit it into the Fund, they have misused that money, which is a breach of trust. If an employer deducts the employee's contribution for the Employees' State Insurance Fund but doesn’t transfer it to the Fund, they are also guilty of criminal breach of trust.",
+            "qas": [
+              {
+                "question": "What are examples of criminal breach of trust under Section 316?",
+                "id": "q47",
+                "answers": [
+                  {
+                    "text": "Examples of criminal breach of trust under Section 316 include an employer misusing the Provident Fund or Employees' State Insurance Fund contributions by failing to deposit them as required.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustration: (a) A is an executor of a will and is supposed to distribute the deceased person's belongings according to the will. If A takes the property for themselves instead of following the will, A is guilty of criminal breach of trust.",
+            "qas": [
+              {
+                "question": "What is an illustration of criminal breach of trust?",
+                "id": "q48",
+                "answers": [
+                  {
+                    "text": "An illustration of criminal breach of trust is when A, as an executor of a will, takes the property for themselves instead of distributing it according to the will.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "In summary, if you are given responsibility over property or funds and misuse or fail to follow the rules for handling them, you are committing criminal breach of trust.",
+            "qas": [
+              {
+                "question": "What is the summary of Section 316 on criminal breach of trust?",
+                "id": "q49",
+                "answers": [
+                  {
+                    "text": "The summary of Section 316 is that if you are entrusted with property or funds and misuse or fail to follow instructions on handling them, you commit criminal breach of trust.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 317: Receiving Stolen Property",
+        "paragraphs": [
+          {
+            "context": "Stolen Property Definition: Property obtained through theft, extortion, robbery, cheating, or criminal breach of trust is considered 'stolen property' whether the act occurred in India or elsewhere. If the stolen property comes into the possession of someone legally entitled to it, it is no longer considered stolen.",
+            "qas": [
+              {
+                "question": "What defines stolen property under Section 317?",
+                "id": "q50",
+                "answers": [
+                  {
+                    "text": "Stolen property is property obtained through theft, extortion, robbery, cheating, or criminal breach of trust, whether the act occurred in India or elsewhere. If legally entitled, it is no longer considered stolen.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishment for Receiving Stolen Property: If someone dishonestly receives or retains stolen property, knowing or having reason to believe it is stolen, they can be punished with imprisonment for up to 3 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for receiving stolen property under Section 317?",
+                "id": "q51",
+                "answers": [
+                  {
+                    "text": "The punishment for receiving stolen property under Section 317 is imprisonment for up to 3 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Section 317 (continued): Receiving Stolen Property",
+        "paragraphs": [
+          {
+            "context": "Punishment for Receiving Stolen Property from Dacoits or Habitually: Receiving from a Dacoit: If someone dishonestly receives stolen property from a person whom they know or have reason to believe is part of a gang of dacoits, and they know or believe the property to be stolen, they can be punished with life imprisonment or rigorous imprisonment for up to 10 years, along with a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for receiving stolen property from dacoits?",
+                "id": "q52",
+                "answers": [
+                  {
+                    "text": "The punishment for receiving stolen property from a dacoit is life imprisonment or rigorous imprisonment for up to 10 years, along with a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Habitual Dealing in Stolen Property: Anyone who habitually receives or deals in property they know or believe to be stolen can be punished with life imprisonment or imprisonment for up to 10 years, along with a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for habitual dealing in stolen property?",
+                "id": "q53",
+                "answers": [
+                  {
+                    "text": "The punishment for habitual dealing in stolen property is life imprisonment or imprisonment for up to 10 years, along with a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Concealing or Disposing of Stolen Property: Anyone who voluntarily helps conceal, dispose of, or make away with stolen property, knowing or believing it to be stolen, can be punished with up to 3 years imprisonment, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for concealing or disposing of stolen property?",
+                "id": "q54",
+                "answers": [
+                  {
+                    "text": "The punishment for concealing or disposing of stolen property is up to 3 years imprisonment, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 318: Cheating",
+        "paragraphs": [
+          {
+            "context": "Definition of Cheating: A person is said to cheat when they deceive another person by fraudulently or dishonestly inducing them to: Deliver property to someone, Consent to someone retaining property, Do or omit something they wouldn’t normally do or omit, resulting in harm to their body, mind, reputation, or property.",
+            "qas": [
+              {
+                "question": "What is the definition of cheating under Section 318?",
+                "id": "q55",
+                "answers": [
+                  {
+                    "text": "Cheating occurs when someone deceives another person by fraudulently or dishonestly inducing them to deliver property, consent to retaining property, or do something they wouldn’t normally do, resulting in harm.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanation: A dishonest concealment of facts also constitutes deception under this section.",
+            "qas": [
+              {
+                "question": "What does the explanation of Section 318 indicate about dishonest concealment of facts?",
+                "id": "q56",
+                "answers": [
+                  {
+                    "text": "The explanation of Section 318 indicates that a dishonest concealment of facts is also considered deception under this section.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations: Example 1: A pretends to be in the Civil Service and deceives Z, leading Z to give him goods on credit without intending to pay for them. A cheats.",
+            "qas": [
+              {
+                "question": "Give an example of someone cheating under Section 318.",
+                "id": "q57",
+                "answers": [
+                  {
+                    "text": "An example of someone cheating under Section 318 is when A pretends to be in the Civil Service and deceives Z into giving him goods on credit without intending to pay for them.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example 2: A puts a counterfeit mark on an article, misleading Z into thinking it is made by a famous manufacturer, thus causing Z to buy it. A cheats.",
+            "qas": [
+              {
+                "question": "What is another example of cheating under Section 318?",
+                "id": "q58",
+                "answers": [
+                  {
+                    "text": "Another example of cheating is when A puts a counterfeit mark on an article, misleading Z into thinking it is made by a famous manufacturer, thus causing Z to buy it.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example 3: A shows a false sample of an article to Z, deceiving Z into believing the actual article matches the sample, leading to Z buying it. A cheats.",
+            "qas": [
+              {
+                "question": "What is another example of cheating under Section 318?",
+                "id": "q59",
+                "answers": [
+                  {
+                    "text": "Another example of cheating is when A shows a false sample of an article to Z, deceiving Z into believing the actual article matches the sample, leading to Z buying it.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example 4: A uses a dishonored bill to buy an article, intending not to pay for it. A cheats.",
+            "qas": [
+              {
+                "question": "Give an example of cheating related to dishonored bills under Section 318.",
+                "id": "q60",
+                "answers": [
+                  {
+                    "text": "An example of cheating related to dishonored bills is when A uses a dishonored bill to buy an article, intending not to pay for it.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example 5: A pledges non-diamonds as diamonds to Z, inducing Z to lend money based on the false representation. A cheats.",
+            "qas": [
+              {
+                "question": "What is an example of cheating involving false representation of diamonds under Section 318?",
+                "id": "q61",
+                "answers": [
+                  {
+                    "text": "An example of cheating involving false representation of diamonds is when A pledges non-diamonds as diamonds to Z, inducing Z to lend money based on the false representation.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example 6: A deceives Z into believing they will repay a loan, but A does not intend to repay. A cheats.",
+            "qas": [
+              {
+                "question": "What is an example of cheating involving a loan under Section 318?",
+                "id": "q62",
+                "answers": [
+                  {
+                    "text": "An example of cheating involving a loan is when A deceives Z into believing they will repay a loan, but A does not intend to repay.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example 7: A deceives Z into thinking they will deliver a certain amount of indigo plant, inducing Z to lend money, even though A has no intention of delivering. A cheats.",
+            "qas": [
+              {
+                "question": "What is an example of cheating involving indigo plants under Section 318?",
+                "id": "q63",
+                "answers": [
+                  {
+                    "text": "An example of cheating involving indigo plants is when A deceives Z into thinking they will deliver a certain amount of indigo plant, inducing Z to lend money, even though A has no intention of delivering.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example 8: A deceives Z into thinking they have fulfilled their part of a contract, and thus induces Z to pay money. A cheats.",
+            "qas": [
+              {
+                "question": "What is an example of cheating involving a contract under Section 318?",
+                "id": "q64",
+                "answers": [
+                  {
+                    "text": "An example of cheating involving a contract is when A deceives Z into thinking they have fulfilled their part of the contract, inducing Z to pay money.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Section 318 (continued): Punishment for Cheating",
+        "paragraphs": [
+          {
+            "context": "Cheating and Punishments: General Cheating: Anyone who cheats is subject to imprisonment for up to 3 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for general cheating?",
+                "id": "q65",
+                "answers": [
+                  {
+                    "text": "The punishment for general cheating is imprisonment for up to 3 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Cheating with Knowledge of Wrongful Loss: If a person cheats, knowing that it will likely cause a wrongful loss to someone whose interests they are legally obligated to protect, the punishment increases to imprisonment for up to 5 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for cheating with knowledge of wrongful loss?",
+                "id": "q66",
+                "answers": [
+                  {
+                    "text": "The punishment for cheating with knowledge of wrongful loss is imprisonment for up to 5 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Cheating and Deception Leading to Property Transfer: If a person cheats and deceives the victim into delivering property, or altering or destroying a valuable security, or anything capable of becoming a valuable security, the punishment is imprisonment for up to 7 years, along with a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for cheating that leads to a property transfer?",
+                "id": "q67",
+                "answers": [
+                  {
+                    "text": "The punishment for cheating leading to a property transfer is imprisonment for up to 7 years, along with a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 319: Cheating by Personation",
+        "paragraphs": [
+          {
+            "context": "Definition of Cheating by Personation: A person cheats by pretending to be someone else or by substituting one person for another, representing that they or another person is someone other than they truly are. This offense can occur whether the person being impersonated is real or imaginary.",
+            "qas": [
+              {
+                "question": "What is cheating by personation?",
+                "id": "q68",
+                "answers": [
+                  {
+                    "text": "Cheating by personation occurs when a person pretends to be someone else or substitutes one person for another, representing themselves or another person as someone other than they truly are.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations: Example 1: A cheats by pretending to be a rich banker with the same name. This is considered cheating by personation. Example 2: A cheats by pretending to be someone who is deceased. This is also cheating by personation.",
+            "qas": [
+              {
+                "question": "Give examples of cheating by personation.",
+                "id": "q69",
+                "answers": [
+                  {
+                    "text": "Example 1: A cheats by pretending to be a rich banker with the same name. Example 2: A cheats by pretending to be someone who is deceased.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishment: Cheating by personation is punishable by imprisonment for up to 5 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for cheating by personation?",
+                "id": "q70",
+                "answers": [
+                  {
+                    "text": "The punishment for cheating by personation is imprisonment for up to 5 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 320: Fraudulent Removal or Concealment of Property",
+        "paragraphs": [
+          {
+            "context": "Dishonest or Fraudulent Transfer of Property: Anyone who dishonestly or fraudulently removes, conceals, delivers, or transfers property without adequate consideration, intending to prevent the distribution of that property according to law among creditors, shall be punished with: Imprisonment for 6 months to 2 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for dishonest or fraudulent transfer of property?",
+                "id": "q71",
+                "answers": [
+                  {
+                    "text": "The punishment for dishonest or fraudulent transfer of property is imprisonment for 6 months to 2 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 321: Preventing Debts from Being Paid",
+        "paragraphs": [
+          {
+            "context": "Dishonestly Preventing Debt Payment: A person who dishonestly or fraudulently prevents a debt or demand from being made available for the payment of his debts or another person's debts, shall be punished with: Imprisonment for up to 2 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for dishonestly preventing debt payment?",
+                "id": "q72",
+                "answers": [
+                  {
+                    "text": "The punishment for dishonestly preventing debt payment is imprisonment for up to 2 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 322: Fraudulent Deeds or Instruments",
+        "paragraphs": [
+          {
+            "context": "Fraudulent Signing or Execution of Deeds: Anyone who dishonestly or fraudulently signs, executes, or becomes a party to a deed or instrument that transfers or subjects property to a charge and contains false statements about the consideration for the transfer or charge, or the person it benefits, shall be punished with: Imprisonment for up to 3 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for fraudulent signing or execution of deeds?",
+                "id": "q73",
+                "answers": [
+                  {
+                    "text": "The punishment for fraudulent signing or execution of deeds is imprisonment for up to 3 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+  {
+    "data": [
+      {
+        "title": "Section 323: Concealment or Removal of Property",
+        "paragraphs": [
+          {
+            "context": "Dishonest or Fraudulent Concealment or Removal: Anyone who dishonestly or fraudulently conceals or removes any property of themselves or another person, or assists in such concealment or removal, or dishonestly releases any demand or claim they are entitled to, shall be punished with: Imprisonment for up to 3 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for dishonest or fraudulent concealment or removal of property?",
+                "id": "q74",
+                "answers": [
+                  {
+                    "text": "The punishment for dishonest or fraudulent concealment or removal of property is imprisonment for up to 3 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 324: Mischief",
+        "paragraphs": [
+          {
+            "context": "Definition of Mischief: Mischief occurs when someone, with intent to cause or knowing they are likely to cause wrongful loss or damage to the public or any person, causes the destruction of property, alters property in a way that diminishes its value, or harms its utility.",
+            "qas": [
+              {
+                "question": "What is the definition of mischief?",
+                "id": "q75",
+                "answers": [
+                  {
+                    "text": "Mischief occurs when someone, with intent to cause or knowing they are likely to cause wrongful loss or damage to the public or any person, causes the destruction of property, alters property in a way that diminishes its value, or harms its utility.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanation 1: The offense doesn't require the intent to cause damage to the property owner specifically. It suffices if the action causes wrongful loss or damage to any person, even if the property does not belong to that person.",
+            "qas": [
+              {
+                "question": "Does the offense of mischief require the intent to cause damage to the property owner?",
+                "id": "q76",
+                "answers": [
+                  {
+                    "text": "No, the offense of mischief doesn't require the intent to cause damage to the property owner specifically. It suffices if the action causes wrongful loss or damage to any person.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanation 2: Mischief can also be committed against property belonging to the person committing the act or jointly with others.",
+            "qas": [
+              {
+                "question": "Can mischief be committed against property belonging to the person committing the act?",
+                "id": "q77",
+                "answers": [
+                  {
+                    "text": "Yes, mischief can also be committed against property belonging to the person committing the act or jointly with others.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations: Example 1: A burns a valuable security belonging to Z, intending to cause loss to Z. This is mischief. Example 2: A introduces water into an ice-house owned by Z, causing the ice to melt, with the intent to cause damage to Z. This is mischief.",
+            "qas": [
+              {
+                "question": "Give examples of mischief.",
+                "id": "q78",
+                "answers": [
+                  {
+                    "text": "Example 1: A burns a valuable security belonging to Z, intending to cause loss to Z. Example 2: A introduces water into an ice-house owned by Z, causing the ice to melt, with the intent to cause damage to Z.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for Mischief: General Misdeed: Whoever commits mischief shall be punished with imprisonment up to 6 months, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for general mischief?",
+                "id": "q79",
+                "answers": [
+                  {
+                    "text": "The punishment for general mischief is imprisonment up to 6 months, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief Leading to Loss/Damage of Property: If mischief causes loss or damage to property (including government or local authority property), the punishment is imprisonment up to 1 year, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief leading to loss or damage of property?",
+                "id": "q80",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief leading to loss or damage of property is imprisonment up to 1 year, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief Leading to Loss/Damage Between ₹20,000 and ₹1 Lakh: The punishment increases to imprisonment up to 2 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief leading to loss or damage between ₹20,000 and ₹1 Lakh?",
+                "id": "q81",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief leading to loss or damage between ₹20,000 and ₹1 Lakh is imprisonment up to 2 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief Leading to Loss/Damage Over ₹1 Lakh: If mischief causes loss or damage to the amount of ₹1 lakh or more, the punishment is imprisonment up to 5 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief leading to loss or damage over ₹1 Lakh?",
+                "id": "q82",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief leading to loss or damage over ₹1 Lakh is imprisonment up to 5 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Section 326: Specific Acts of Mischief",
+        "paragraphs": [
+          {
+            "context": "Mischief in Specific Areas: Mischief by Killing, Poisoning, or Maiming Animals: Whoever commits mischief by killing, poisoning, maiming, or rendering any animal useless will be punished with imprisonment for up to 5 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief by killing, poisoning, or maiming animals?",
+                "id": "q83",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief by killing, poisoning, or maiming animals is imprisonment for up to 5 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief by Affecting Water Supply: Whoever causes or is likely to cause a reduction in the supply of water for agriculture, food, drink, or cleanliness, will face imprisonment for up to 5 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief by affecting water supply?",
+                "id": "q84",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief by affecting water supply is imprisonment for up to 5 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief by Affecting Public Infrastructure: Affecting public roads, bridges, rivers, or navigable channels (rendering them impassable or unsafe): Up to 5 years imprisonment, a fine, or both. Acts causing inundation or obstruction to public drainage: Up to 5 years imprisonment, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief affecting public infrastructure?",
+                "id": "q85",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief affecting public infrastructure, including roads, bridges, rivers, or navigable channels, is up to 5 years imprisonment, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief Affecting Navigation: Anyone who destroys or moves any sign or signal for the navigation of rail, aircraft, or ships, or makes them less useful, will be punished with: Imprisonment for up to 7 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief affecting navigation signals?",
+                "id": "q86",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief affecting navigation signals is imprisonment for up to 7 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief by Affecting Landmarks: Destroying or moving any landmark fixed by a public authority, or making it less useful, carries a punishment of: Imprisonment for up to 1 year, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief affecting landmarks?",
+                "id": "q87",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief affecting landmarks is imprisonment for up to 1 year, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief by Fire or Explosives: If someone uses fire or explosives to cause damage to property (including agricultural produce), the punishment is: Imprisonment for up to 7 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief involving fire or explosives?",
+                "id": "q88",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief involving fire or explosives is imprisonment for up to 7 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief by Destroying Places of Worship or Dwelling: If fire or explosives are used to destroy buildings like places of worship, human dwellings, or places for storing property, the punishment is: Imprisonment for life, or imprisonment for up to 10 years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for destroying places of worship or dwelling using fire or explosives?",
+                "id": "q89",
+                "answers": [
+                  {
+                    "text": "The punishment for destroying places of worship or dwelling using fire or explosives is imprisonment for life, or imprisonment for up to 10 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 327: Mischief Against Transport Infrastructure",
+        "paragraphs": [
+          {
+            "context": "Mischief Involving Rail, Aircraft, or Vessels: Destruction or Unsafe Rendering of Transport Infrastructure: If someone commits mischief to destroy or make unsafe any rail, aircraft, or vessel (of 20 tons or more), the punishment is: Imprisonment for up to 10 years, a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief involving rail, aircraft, or vessels of 20 tons or more?",
+                "id": "q90",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief involving rail, aircraft, or vessels of 20 tons or more is imprisonment for up to 10 years, a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Mischief by Fire or Explosives: If the mischief involves fire or explosives, the punishment increases: Imprisonment for life, or imprisonment for up to 10 years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for mischief involving fire or explosives on transport infrastructure?",
+                "id": "q91",
+                "answers": [
+                  {
+                    "text": "The punishment for mischief involving fire or explosives on transport infrastructure is imprisonment for life, or imprisonment for up to 10 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Section 328: Mischief by Intentionally Running a Vessel Aground",
+        "paragraphs": [
+          {
+            "context": "Mischief Involving a Vessel: If someone intentionally runs a vessel aground or ashore with the purpose of committing theft or dishonestly misappropriating any property within the vessel, or with the intent that such theft or misappropriation may be committed, the punishment is: Imprisonment for up to 10 years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for intentionally running a vessel aground with the purpose of committing theft or misappropriation?",
+                "id": "q92",
+                "answers": [
+                  {
+                    "text": "The punishment for intentionally running a vessel aground with the purpose of committing theft or misappropriation is imprisonment for up to 10 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 329: Criminal Trespass",
+        "paragraphs": [
+          {
+            "context": "Criminal Trespass Defined: Criminal trespass occurs when someone enters into or remains upon property in the possession of another person with the intent to commit an offense or to intimidate, insult, or annoy the person in possession of the property. A person who unlawfully remains on such property with intent to commit an offense or intimidate the person is also considered to be committing criminal trespass.",
+            "qas": [
+              {
+                "question": "What constitutes criminal trespass?",
+                "id": "q93",
+                "answers": [
+                  {
+                    "text": "Criminal trespass occurs when someone enters or remains upon property in the possession of another person with the intent to commit an offense or to intimidate, insult, or annoy the person in possession of the property.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "House-Trespass: If criminal trespass is committed by entering or remaining in any building, tent, vessel used as a human dwelling, or a building used as a place of worship or for the custody of property, it is considered house-trespass.",
+            "qas": [
+              {
+                "question": "What is considered house-trespass?",
+                "id": "q94",
+                "answers": [
+                  {
+                    "text": "House-trespass occurs if criminal trespass is committed by entering or remaining in any building, tent, vessel used as a human dwelling, or a building used as a place of worship or for the custody of property.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for Criminal Trespass: Imprisonment for up to 3 months, a fine of up to 5,000 rupees, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for criminal trespass?",
+                "id": "q95",
+                "answers": [
+                  {
+                    "text": "The punishment for criminal trespass is imprisonment for up to 3 months, a fine of up to 5,000 rupees, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for House-Trespass: Imprisonment for up to 1 year, a fine of up to 5,000 rupees, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for house-trespass?",
+                "id": "q96",
+                "answers": [
+                  {
+                    "text": "The punishment for house-trespass is imprisonment for up to 1 year, a fine of up to 5,000 rupees, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Section 330: Housebreaking and Lurking House-Trespass",
+        "paragraphs": [
+          {
+            "context": "Lurking House-Trespass: Lurking house-trespass is committed when someone engages in house-trespass while taking precautions to conceal their actions from a person who has the right to exclude or eject the trespasser from the building, tent, or vessel involved.",
+            "qas": [
+              {
+                "question": "What constitutes lurking house-trespass?",
+                "id": "q97",
+                "answers": [
+                  {
+                    "text": "Lurking house-trespass occurs when someone engages in house-trespass while taking precautions to conceal their actions from the person who has the right to exclude or eject the trespasser.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Housebreaking Defined: A person commits housebreaking if they commit house-trespass by entering or exiting a house or part of it in any of the following ways: Creating a Passage: Entering or exiting through a passage made by the trespasser or an accomplice. Unauthorized Passage: Entering or exiting through a passage not intended by anyone other than the trespasser or accomplice, such as scaling or climbing over walls. Opening a Passage: Entering or exiting through a passage opened by the trespasser or accomplice that was not meant to be opened by the occupier. Opening a Lock: Entering or exiting by opening a lock to facilitate the house-trespass. Using Force or Assault: Entering or exiting by using criminal force or committing an assault, or by threatening to do so. Unfastening a Locked Passage: Entering or exiting by a passage that was fastened against entry but was unfastened by the trespasser or accomplice.",
+            "qas": [
+              {
+                "question": "What constitutes housebreaking?",
+                "id": "q98",
+                "answers": [
+                  {
+                    "text": "Housebreaking occurs when someone commits house-trespass by entering or exiting a house or part of it by creating a passage, unauthorized passage, opening a passage, opening a lock, using force or assault, or unfastening a locked passage.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Explanation and Punishments for Lurking House-Trespass and Housebreaking",
+        "paragraphs": [
+          {
+            "context": "Explanation on House-Trespass and Housebreaking: Out-Houses and Internal Communication: Any out-house or building connected to a house, with immediate internal communication between them, is considered part of the house within the meaning of house-trespass and housebreaking.",
+            "qas": [
+              {
+                "question": "What is considered part of the house in terms of house-trespass and housebreaking?",
+                "id": "q99",
+                "answers": [
+                  {
+                    "text": "Any out-house or building connected to a house, with immediate internal communication between them, is considered part of the house within the meaning of house-trespass and housebreaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations of House-Trespass and Housebreaking: Example Scenarios: (a) A makes a hole in the wall of Z’s house and puts his hand through. This constitutes house-breaking. (b) A creeps into a ship at a port-hole between decks. This is house-breaking. (c) A enters Z’s house through a window. This is house-breaking. (d) A enters Z’s house by opening a fastened door. This is house-breaking. (e) A lifts a latch with a wire through a hole to open the door and enters Z’s house. This is house-breaking. (f) A finds the key to Z’s house and enters by using that key. This is house-breaking. (g) A knocks Z down and forces a passage into Z’s house. This is house-breaking. (h) A enters Z’s house after threatening to beat Z, the door-keeper. This is house-breaking.",
+            "qas": [
+              {
+                "question": "Which of the following constitutes house-breaking? (a) A makes a hole in the wall of Z’s house and puts his hand through.",
+                "id": "q100",
+                "answers": [
+                  {
+                    "text": "This constitutes house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Which of the following constitutes house-breaking? (b) A creeps into a ship at a port-hole between decks.",
+                "id": "q101",
+                "answers": [
+                  {
+                    "text": "This is house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Which of the following constitutes house-breaking? (c) A enters Z’s house through a window.",
+                "id": "q102",
+                "answers": [
+                  {
+                    "text": "This is house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Which of the following constitutes house-breaking? (d) A enters Z’s house by opening a fastened door.",
+                "id": "q103",
+                "answers": [
+                  {
+                    "text": "This is house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Which of the following constitutes house-breaking? (e) A lifts a latch with a wire through a hole to open the door and enters Z’s house.",
+                "id": "q104",
+                "answers": [
+                  {
+                    "text": "This is house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Which of the following constitutes house-breaking? (f) A finds the key to Z’s house and enters by using that key.",
+                "id": "q105",
+                "answers": [
+                  {
+                    "text": "This is house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Which of the following constitutes house-breaking? (g) A knocks Z down and forces a passage into Z’s house.",
+                "id": "q106",
+                "answers": [
+                  {
+                    "text": "This is house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Which of the following constitutes house-breaking? (h) A enters Z’s house after threatening to beat Z, the door-keeper.",
+                "id": "q107",
+                "answers": [
+                  {
+                    "text": "This is house-breaking.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for Lurking House-Trespass and Housebreaking: General Punishment: Anyone committing lurking house-trespass or housebreaking can be punished with: Imprisonment for up to 2 years, and also liable to fine.",
+            "qas": [
+              {
+                "question": "What is the general punishment for lurking house-trespass or housebreaking?",
+                "id": "q108",
+                "answers": [
+                  {
+                    "text": "Anyone committing lurking house-trespass or housebreaking can be punished with imprisonment for up to 2 years, and also liable to fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishment after Sunset and Before Sunrise: If the lurking house-trespass or housebreaking occurs after sunset and before sunrise, the punishment is: Imprisonment for up to 3 years, and also liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment if lurking house-trespass or housebreaking occurs after sunset and before sunrise?",
+                "id": "q109",
+                "answers": [
+                  {
+                    "text": "The punishment is imprisonment for up to 3 years, and also liable to fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishment for Commission with Intent to Commit Another Offense: If the house-trespass or housebreaking is committed with the intent to commit another offense punishable with imprisonment: Imprisonment for up to 3 years, and also liable to fine. If the intended offense is theft, the imprisonment term can be extended to 10 years.",
+            "qas": [
+              {
+                "question": "What is the punishment if house-trespass or housebreaking is committed with the intent to commit theft?",
+                "id": "q110",
+                "answers": [
+                  {
+                    "text": "If the intended offense is theft, the imprisonment term can be extended to 10 years.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishment after Sunset and Before Sunrise (Intent to Commit an Offense): If the offense occurs after sunset and before sunrise, and is committed to facilitate another offense punishable with imprisonment: Imprisonment for up to 5 years, and also liable to fine. If the intended offense is theft, the term of imprisonment may extend to 14 years.",
+            "qas": [
+              {
+                "question": "What is the punishment if the offense occurs after sunset and before sunrise, and is committed to facilitate theft?",
+                "id": "q111",
+                "answers": [
+                  {
+                    "text": "The term of imprisonment may extend to 14 years if the intended offense is theft.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishment for Preparedness to Cause Hurt or Assault: If the house-trespass or housebreaking is committed with preparation to cause hurt, assault, wrongful restraint, or to instill fear of hurt, the punishment can be: Imprisonment for up to 10 years, and also liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment if house-trespass or housebreaking is committed with preparation to cause hurt or assault?",
+                "id": "q112",
+                "answers": [
+                  {
+                    "text": "The punishment can be imprisonment for up to 10 years, and also liable to fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishment after Sunset and Before Sunrise (Preparedness for Hurt or Assault): If the house-trespass or housebreaking occurs after sunset and before sunrise, with preparation for causing hurt, assault, or wrongful restraint, the punishment is: Imprisonment for up to 14 years, and also liable to fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for house-trespass or housebreaking after sunset and before sunrise, with preparation for causing hurt or assault?",
+                "id": "q113",
+                "answers": [
+                  {
+                    "text": "The punishment is imprisonment for up to 14 years, and also liable to fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Punishments and Provisions for House-Trespass and Related Offenses",
+        "paragraphs": [
+          {
+            "context": "Punishments for Lurking House-Trespass or Housebreaking with Grievous Harm: Grievous Hurt or Attempt to Cause Death: If a person, while committing lurking house-trespass or housebreaking, causes grievous hurt to someone or attempts to cause death or grievous hurt, the punishment is: Imprisonment for life, or Imprisonment for a term up to 10 years, along with a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for causing grievous hurt or attempting to cause death or grievous hurt during lurking house-trespass or housebreaking?",
+                "id": "q114",
+                "answers": [
+                  {
+                    "text": "Imprisonment for life, or Imprisonment for a term up to 10 years, along with a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Grievous Hurt or Attempt to Cause Death (After Sunset and Before Sunrise): If the offense occurs after sunset and before sunrise, and the person voluntarily causes or attempts to cause death or grievous hurt, everyone involved in the offense will face: Imprisonment for life, or Imprisonment for a term up to 10 years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment if grievous hurt or attempt to cause death occurs after sunset and before sunrise during house-trespass or housebreaking?",
+                "id": "q115",
+                "answers": [
+                  {
+                    "text": "Imprisonment for life, or Imprisonment for a term up to 10 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "House-Trespass to Commit Other Offenses: Section 332 outlines the punishments for house-trespass with the intent to commit another offense: (a) Punishable with death: Imprisonment for life, or Rigorous imprisonment for up to 10 years, and a fine. (b) Punishable with life imprisonment: Imprisonment for a term up to 10 years, and a fine. (c) Punishable with imprisonment: Imprisonment for up to 2 years, and a fine. If the intended offense is theft, the imprisonment term may extend to 7 years.",
+            "qas": [
+              {
+                "question": "What is the punishment for house-trespass to commit another offense that is punishable with death?",
+                "id": "q116",
+                "answers": [
+                  {
+                    "text": "Imprisonment for life, or Rigorous imprisonment for up to 10 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "What is the punishment for house-trespass to commit another offense punishable with life imprisonment?",
+                "id": "q117",
+                "answers": [
+                  {
+                    "text": "Imprisonment for a term up to 10 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "What is the punishment for house-trespass to commit another offense punishable with imprisonment?",
+                "id": "q118",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to 2 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for House-Trespass with Preparation for Harm: Preparation for Causing Harm: If house-trespass is committed with preparations for: Causing hurt, Assaulting, Wrongfully restraining, Instilling fear of harm or restraint, The punishment is: Imprisonment for up to 7 years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for house-trespass committed with preparations for causing harm?",
+                "id": "q119",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to 7 years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for Breaking Open or Unfastening Receptacles: Section 334 outlines the penalties for breaking open or unfastening closed receptacles: Dishonestly or with intent to commit mischief: Breaking or unfastening a closed receptacle (that may contain property or that the person believes to contain property) results in: Imprisonment for up to 2 years, or a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for breaking open or unfastening a closed receptacle dishonestly or with intent to commit mischief?",
+                "id": "q120",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to 2 years, or a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Being entrusted with a closed receptacle: If a person, without authority, dishonestly or with intent to commit mischief, breaks open or unfastens a receptacle they were entrusted with, the punishment is: Imprisonment for up to 3 years, or a fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for breaking open or unfastening a receptacle one was entrusted with, without authority, with intent to commit mischief?",
+                "id": "q121",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to 3 years, or a fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Offenses Related to Making False Documents: Section 335 defines the offense of making false documents: A person commits making a false document or electronic record if they: Dishonestly or fraudulently: Make, sign, seal, or execute a document or part of a document. Make or transmit any electronic record or part of it. Affix an electronic signature on any electronic record. Make any mark denoting the execution of a document or the authenticity of the electronic signature. The intent is to cause the belief that the document, electronic record, or signature was made, signed, sealed, executed, transmitted, or affixed by the authorized person or authority.",
+            "qas": [
+              {
+                "question": "What is the offense related to making false documents or electronic records?",
+                "id": "q122",
+                "answers": [
+                  {
+                    "text": "Dishonestly or fraudulently making, signing, sealing, or executing a document or part of a document, transmitting an electronic record, affixing an electronic signature, or making a mark denoting execution or authenticity.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Forgery and False Documents",
+        "paragraphs": [
+          {
+            "context": "Section 335 further elaborates on the offense of making false documents or electronic records. A person commits forgery in the following ways: A. Dishonest Creation or Execution of False Documents. A person who dishonestly or fraudulently makes, signs, seals, or executes a document or an electronic record with the intent to deceive another person into believing it to be genuine when it is not. This includes: Making or transmitting any part of a document or electronic record. Affixing an electronic signature to a document without lawful authority. Creating a mark that suggests authenticity or execution of the document.",
+            "qas": [
+              {
+                "question": "What actions constitute dishonest creation or execution of false documents or electronic records?",
+                "id": "q123",
+                "answers": [
+                  {
+                    "text": "Making, signing, sealing, or executing a document or electronic record with the intent to deceive, including affixing an electronic signature without lawful authority or creating a mark suggesting authenticity.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "B. Altering a Document or Electronic Record Without Authority. Dishonestly or fraudulently altering a document or electronic record: This could be through cancellation or any other method of altering the content of the document, after it has been made, signed, or affixed with an electronic signature. The alteration can be made either by the same person who originally executed it or by another person, even if that person is alive or deceased at the time of alteration.",
+            "qas": [
+              {
+                "question": "What actions are considered altering a document or electronic record without authority?",
+                "id": "q124",
+                "answers": [
+                  {
+                    "text": "Dishonestly or fraudulently altering a document or electronic record, such as cancellation or changing its content after it has been signed or affixed with an electronic signature.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "C. Inducing a Person to Alter or Sign a Document Fraudulently. A person who dishonestly or fraudulently induces someone else to: Sign, seal, execute, or alter a document or electronic record, Affix an electronic signature, knowing that the person: Cannot comprehend the document or its alteration due to unsoundness of mind or intoxication, Is deceived, and does not know the contents of the document or the nature of the alteration.",
+            "qas": [
+              {
+                "question": "What constitutes inducing someone to alter or sign a document fraudulently?",
+                "id": "q125",
+                "answers": [
+                  {
+                    "text": "Dishonestly or fraudulently inducing someone to sign, seal, execute, or alter a document, or affix an electronic signature, knowing the person cannot comprehend the document due to unsoundness of mind or intoxication, or is deceived.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Illustrations of Forgery: Example (a): A has a letter of credit for ₹10,000 written by Z. A adds extra digits to make the amount ₹1,00,000, intending to deceive B into believing Z wrote the original amount. A has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (a)?",
+                "id": "q126",
+                "answers": [
+                  {
+                    "text": "A adds extra digits to a letter of credit, changing ₹10,000 to ₹1,00,000, intending to deceive B.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (b): A, without Z’s authority, affixes Z’s seal to a conveyance document purporting to transfer an estate to A. A intends to sell the estate to B and defraud B of the purchase money. A has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (b)?",
+                "id": "q127",
+                "answers": [
+                  {
+                    "text": "A affixes Z’s seal to a conveyance document without authority, intending to sell the estate to B and defraud B.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (c): A picks up a cheque signed by B, payable to bearer, but with no sum inserted. A fraudulently fills in the amount of ₹10,000. A has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (c)?",
+                "id": "q128",
+                "answers": [
+                  {
+                    "text": "A fills in the amount ₹10,000 on a cheque signed by B, without authorization.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (d): A gives B a cheque with A’s signature but without the sum inserted, authorizing B to fill in the amount not exceeding ₹10,000. However, B fraudulently fills in ₹20,000. B has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (d)?",
+                "id": "q129",
+                "answers": [
+                  {
+                    "text": "B fraudulently fills in ₹20,000 instead of the authorized ₹10,000 on a cheque.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (e): A draws a bill of exchange in B's name without B’s authority, intending to deceive a banker into discounting the bill. A is guilty of forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (e)?",
+                "id": "q130",
+                "answers": [
+                  {
+                    "text": "A draws a bill of exchange in B's name without authority, intending to deceive a banker.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (f): A alters Z’s will, scratching out B’s name, intending to deceive others into believing that the estate was left solely to A and C. A has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (f)?",
+                "id": "q131",
+                "answers": [
+                  {
+                    "text": "A alters Z’s will by scratching out B’s name, intending to deceive others.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (g): B fraudulently erases the words “Pay to Z or his order” from a Government promissory note, changing it to a blank endorsement. B has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (g)?",
+                "id": "q132",
+                "answers": [
+                  {
+                    "text": "B erases the words 'Pay to Z or his order' from a Government promissory note, changing it to a blank endorsement.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (h): A sells an estate to Z and later executes a second conveyance to B with a backdated document, intending to deceive Z into believing B received the estate before Z. A has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (h)?",
+                "id": "q133",
+                "answers": [
+                  {
+                    "text": "A executes a backdated conveyance to B, intending to deceive Z.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (i): A writes a will for Z, intentionally changing the legatee’s name. A deceives Z into signing the altered will. A has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (i)?",
+                "id": "q134",
+                "answers": [
+                  {
+                    "text": "A writes a will for Z, changing the legatee’s name and deceiving Z into signing the altered will.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (j): A writes a letter and signs it with B’s name without authorization, to fraudulently claim that A is in distressed circumstances and seek alms. A has committed forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (j)?",
+                "id": "q135",
+                "answers": [
+                  {
+                    "text": "A signs a letter with B’s name without authorization, claiming distressed circumstances to seek alms.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
+  
+
+  {
+    "data": [
+      {
+        "title": "Forgery - Continued",
+        "paragraphs": [
+          {
+            "context": "Section 336 expands on the definition and punishment for forgery: False Documents or Electronic Records with Intent to Cause Harm. Forgery involves creating or altering a false document or electronic record with the intent to cause damage or injury: To the public or any individual. To support a claim or title. To cause someone to part with property. To enter into a contract (express or implied). To commit fraud or facilitate fraud.",
+            "qas": [
+              {
+                "question": "What constitutes forgery in the context of false documents or electronic records with intent to cause harm?",
+                "id": "q136",
+                "answers": [
+                  {
+                    "text": "Creating or altering a false document or electronic record with the intent to cause damage or injury to the public, an individual, or for fraud purposes.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for Forgery: For general forgery (making a false document or electronic record), the punishment is: Imprisonment for a term up to two years, or a fine, or both. Forgery with Intent to Cheat: If the forged document or electronic record is intended to be used for cheating, the punishment is: Imprisonment for a term that may extend to seven years, along with a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for general forgery and forgery with intent to cheat?",
+                "id": "q137",
+                "answers": [
+                  {
+                    "text": "For general forgery: imprisonment up to two years, a fine, or both. For forgery with intent to cheat: imprisonment up to seven years and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanation and Additional Illustrations: Forgery Through False Names or Antedating Documents. Illustration (k): A writes a letter in B's name certifying A’s character, with the intention of deceiving Z to obtain employment. A commits forgery because A intended to deceive Z into forming an employment contract based on the forged certificate.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Illustration (k)?",
+                "id": "q138",
+                "answers": [
+                  {
+                    "text": "A writes a letter in B's name to deceive Z into obtaining employment, committing forgery.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanation 1 - Signing Own Name: A person’s signature of their own name may constitute forgery if it is intended to deceive. Example (a): A signs their own name on a bill of exchange, intending that others believe the bill was drawn by someone else with the same name. A commits forgery.",
+            "qas": [
+              {
+                "question": "Can signing one's own name be considered forgery?",
+                "id": "q139",
+                "answers": [
+                  {
+                    "text": "Yes, if it is intended to deceive others into believing it was signed by someone else with the same name.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanation 2 - Forgery in the Name of Fictional or Deceased Persons: Making a document in the name of a fictitious person or a deceased person, intending to mislead others into believing it was created by the person during their lifetime, can be forgery. Example: A draws a bill of exchange upon a fictitious person and fraudulently accepts it in that name to negotiate the bill. A commits forgery.",
+            "qas": [
+              {
+                "question": "What is an example of forgery in the name of fictional or deceased persons?",
+                "id": "q140",
+                "answers": [
+                  {
+                    "text": "A draws a bill of exchange in the name of a fictitious person and fraudulently accepts it to negotiate the bill.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Explanation 3 - Electronic Signature Definition: The term 'affixing electronic signature' is defined in the Information Technology Act, 2000, which helps clarify the legal aspect of electronic records and documents.",
+            "qas": [
+              {
+                "question": "What is the definition of affixing an electronic signature?",
+                "id": "q141",
+                "answers": [
+                  {
+                    "text": "The term 'affixing electronic signature' is defined in the Information Technology Act, 2000, which clarifies the legal aspect of electronic records.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Examples of Forgery in Other Contexts: Example (b): A writes the word 'accepted' on a piece of paper and signs it with Z’s name, intending for B to draw a bill of exchange on it and negotiate it as if it were accepted by Z. A commits forgery, and B is also guilty if they knowingly participate in the deception.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (b)?",
+                "id": "q142",
+                "answers": [
+                  {
+                    "text": "A writes 'accepted' on a piece of paper, signs it with Z's name, and intends for B to use it to deceive others into negotiating the bill.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (c): A picks up a bill of exchange payable to the order of someone else with the same name, and A endorses it intending to deceive others into believing it was endorsed by the intended person. A commits forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (c)?",
+                "id": "q143",
+                "answers": [
+                  {
+                    "text": "A endorses a bill of exchange payable to someone else with the same name, intending to deceive others.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (d): B colludes with Z to execute a lease of an estate after it was seized by A under legal execution, dating the lease six months earlier than the seizure to make it appear valid before the property was taken. B commits forgery by antedating the lease.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (d)?",
+                "id": "q144",
+                "answers": [
+                  {
+                    "text": "B colludes with Z to antedate a lease of an estate seized by A, making it appear valid before the seizure.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Example (e): A, anticipating insolvency, lodges goods with B and fraudulently creates a promissory note, backdating it to make it seem like a legitimate transaction before insolvency, in an attempt to defraud creditors. A commits forgery.",
+            "qas": [
+              {
+                "question": "What is the forgery committed in Example (e)?",
+                "id": "q145",
+                "answers": [
+                  {
+                    "text": "A creates a backdated promissory note to deceive creditors into believing the transaction occurred before insolvency.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+
+  {
+    "data": [
+      {
+        "title": "Forgery - Continued",
+        "paragraphs": [
+          {
+            "context": "Section 336(4) - Harm to Reputation. Forgery with Intent to Harm Reputation: If the forged document or electronic record is created with the intent to harm the reputation of any party, or if the person knows it is likely to be used for such purpose, the punishment is: Imprisonment for a term up to three years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for forgery with intent to harm reputation?",
+                "id": "q146",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to three years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 337 - Forging Court Documents or Identity Documents. Forgery of Court or Government Documents: Forgery of a document or electronic record that purports to be a court record, identity document (such as voter ID or Aadhaar card), birth, marriage, or burial register, document by a public servant in their official capacity, or any related document (such as authority to institute a suit or to defend, etc.) is punishable by: Imprisonment for a term up to seven years, and a fine. Explanation: The term “register” includes any list, data, or record maintained in electronic form, as per the Information Technology Act, 2000.",
+            "qas": [
+              {
+                "question": "What is the punishment for forgery of court or government documents?",
+                "id": "q147",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to seven years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 338 - Forgery of Valuable Documents. Forgery of Valuable Documents: Forgery of valuable documents such as: A valuable security (like bonds, shares). A will. Authority to adopt a son. Documents authorizing the transfer or receipt of valuable securities, money, or property. Acquittances or receipts acknowledging the payment of money or delivery of property. Punishment for this type of forgery is severe: Imprisonment for life or up to ten years, along with a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for forgery of valuable documents?",
+                "id": "q148",
+                "answers": [
+                  {
+                    "text": "Imprisonment for life or up to ten years, along with a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 339 - Possession of Forged Documents. Possession of Forged Documents: If a person possesses any forged document or electronic record, knowing that it is forged, and intends to use it fraudulently or dishonestly as genuine, the punishment depends on the type of document: Forged Court or Government Documents (as described in Section 337): Imprisonment for up to seven years, along with a fine. Forged Valuable Documents (as described in Section 338): Imprisonment for life, or up to seven years, along with a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for possession of forged documents?",
+                "id": "q149",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to seven years, and a fine for forged Court or Government documents. Imprisonment for life or up to seven years, along with a fine for forged valuable documents.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 340 - Use of Forged Documents. Fraudulent Use of Forged Documents: If someone fraudulently or dishonestly uses a document or electronic record that they know or have reason to believe is forged, they are punishable in the same manner as if they themselves had forged the document.",
+            "qas": [
+              {
+                "question": "What is the punishment for fraudulent use of forged documents?",
+                "id": "q150",
+                "answers": [
+                  {
+                    "text": "They are punishable in the same manner as if they themselves had forged the document.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 341 - Counterfeiting Seals, Plates, or Instruments. Counterfeiting Seals or Instruments for Forgery: Making or counterfeiting any seal, plate, or instrument with the intent to use it for committing forgery under Section 338 (e.g., forging valuable documents) is punishable by: Imprisonment for life or up to seven years, and a fine. Counterfeiting for Other Forgeries: Making or counterfeiting a seal or instrument to commit forgery (not under Section 338) is punishable by: Imprisonment for up to seven years, and a fine. Possession of Counterfeit Seals or Instruments: Possession of any counterfeit seal, plate, or instrument (knowing it to be counterfeit) is punishable by: Imprisonment for up to three years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for counterfeiting seals or instruments?",
+                "id": "q151",
+                "answers": [
+                  {
+                    "text": "Imprisonment for life or up to seven years, and a fine for counterfeiting seals or instruments for forgery. Imprisonment for up to seven years, and a fine for counterfeiting for other forgeries. Imprisonment for up to three years, and a fine for possession of counterfeit seals or instruments.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Forgery - Continued",
+        "paragraphs": [
+          {
+            "context": "Section 341 - Use of Counterfeit Seals or Instruments. Fraudulent Use of Counterfeit Seals, Plates, or Instruments: Using any counterfeit seal, plate, or instrument (knowing it to be counterfeit) as though it were genuine is punishable in the same manner as if the person had made or counterfeited the seal, plate, or instrument. Punishment: The person is subject to the same penalties as for counterfeiting.",
+            "qas": [
+              {
+                "question": "What is the punishment for using counterfeit seals or instruments?",
+                "id": "q152",
+                "answers": [
+                  {
+                    "text": "The person is subject to the same penalties as for counterfeiting.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 342 - Counterfeiting Devices for Authenticity. Counterfeiting Devices or Marks for Authenticity: Counterfeiting a device or mark on any material (for documents described in Section 338) that is used to authenticate documents, with the intent to give the appearance of authenticity to a forged document is punishable by: Imprisonment for life or up to seven years, and a fine. Possession of Counterfeited Device or Mark: Possessing material with such counterfeit devices or marks, intending them to be used for forgery, is also punishable in the same manner as above.",
+            "qas": [
+              {
+                "question": "What is the punishment for counterfeiting devices or marks for authenticity?",
+                "id": "q153",
+                "answers": [
+                  {
+                    "text": "Imprisonment for life or up to seven years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 343 - Defacing or Destroying Documents. Defacing, Destroying, or Cancelling Important Documents: Fraudulently or dishonestly canceling, destroying, defacing, or secreting documents such as a will, authority to adopt a son, or valuable securities (or attempting to do so) with intent to cause harm or injury, is punishable by: Imprisonment for life or up to seven years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for defacing or destroying important documents?",
+                "id": "q154",
+                "answers": [
+                  {
+                    "text": "Imprisonment for life or up to seven years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 344 - Forging or Altering Documents in Employment. Clerks, Officers, or Servants Falsifying Documents: Clerks, officers, or servants, or those acting in such capacity, who wilfully and with intent to defraud: Destroy, alter, mutilate, or falsify documents, records, or accounts belonging to their employer, or Make false entries or alter/remove material particulars from such documents/accounts. The punishment is: Imprisonment for up to seven years, or fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for falsifying documents in employment?",
+                "id": "q155",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to seven years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 342(2) - Counterfeiting Devices for Other Documents. Counterfeiting Devices for Documents Other than Those in Section 338: Counterfeiting a device or mark on any material used to authenticate documents or electronic records (other than those described in Section 338) with the intent to forge documents is punishable by: Imprisonment for up to seven years, and a fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for counterfeiting devices for documents other than those in Section 338?",
+                "id": "q156",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to seven years, and a fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 345 - Property Marks. Definition of Property Mark: A property mark denotes that movable property belongs to a particular person. Using a false property mark refers to marking movable property, goods, or containers in a manner likely to make others believe that the property belongs to someone other than the actual owner. Punishment for Using a False Property Mark: Imprisonment for up to one year, or fine, or both, unless the accused proves they did not intend to defraud.",
+            "qas": [
+              {
+                "question": "What is the punishment for using a false property mark?",
+                "id": "q157",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to one year, or fine, or both, unless the accused proves they did not intend to defraud.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Forgery - Continued",
+        "paragraphs": [
+          {
+            "context": "Section 346 - Removal, Destruction, or Defacing Property Marks. Removal or Alteration of Property Marks: Removing, destroying, defacing, or adding to any property mark with the intention or knowledge that it may cause injury to any person is punishable by: Imprisonment for up to one year, or fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for removing or altering a property mark?",
+                "id": "q158",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to one year, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 347 - Counterfeiting Property Marks. Counterfeiting a Property Mark: Counterfeiting any property mark used by any other person is punishable by: Imprisonment for up to two years, or fine, or both. Counterfeiting a Property Mark Used by a Public Servant: Counterfeiting any property mark used by a public servant or using a counterfeit mark denoting authenticity or quality (e.g., goods manufactured by a specific person, or goods entitled to exemptions) is punishable by: Imprisonment for up to three years, and fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for counterfeiting a property mark?",
+                "id": "q159",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to two years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 348 - Possessing Instruments for Counterfeiting Property Marks. Possessing Instruments or Marks for Counterfeiting: Making or possessing any die, plate, or instrument to counterfeit a property mark, or possessing a property mark to indicate ownership of goods that don’t belong to the owner, is punishable by: Imprisonment for up to three years, or fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for possessing instruments for counterfeiting property marks?",
+                "id": "q160",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to three years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 349 - Selling Goods with Counterfeit Property Marks. Selling or Possessing Goods with Counterfeit Property Marks: Selling or possessing goods with counterfeit property marks, or marks affixed to containers, unless the accused can prove they acted innocently, will be punished by: Imprisonment for up to one year, or fine, or both. Defenses: The defendant can defend by proving that they had no reason to suspect the genuineness of the mark, or that they provided all the relevant information when requested, or that they acted innocently.",
+            "qas": [
+              {
+                "question": "What is the punishment for selling goods with counterfeit property marks?",
+                "id": "q161",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to one year, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 350 - False Marks on Receptacles or Goods. False Marks on Receptacles or Goods: Making false marks on containers or goods in a manner likely to deceive others (e.g., to mislead public servants or others about the contents or quality of goods) is punishable by: Imprisonment for up to three years, or fine, or both. Use of False Marks: Using false marks as described above also carries the same punishment unless the accused can prove they acted without intent to defraud.",
+            "qas": [
+              {
+                "question": "What is the punishment for making false marks on receptacles or goods?",
+                "id": "q162",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to three years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Chapter XIX - Criminal Intimidation, Insult, Annoyance, Defamation, etc. Section 351 - Criminal Intimidation. Criminal Intimidation: Threatening another person (or their interests) with injury to their person, reputation, or property (or to someone they care about), with the intent to: Cause alarm or fear in that person, or Compel them to do or omit an act that they are legally bound to do or entitled to do, This constitutes criminal intimidation.",
+            "qas": [
+              {
+                "question": "What constitutes criminal intimidation?",
+                "id": "q163",
+                "answers": [
+                  {
+                    "text": "Threatening another person (or their interests) with injury to their person, reputation, or property, with the intent to cause alarm or fear or compel them to do or omit an act they are legally bound to do.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+
+  {
+    "data": [
+      {
+        "title": "Criminal Intimidation and Related Offenses - Continued",
+        "paragraphs": [
+          {
+            "context": "Section 351 - Explanation and Punishments for Criminal Intimidation. Threats Involving a Deceased Person's Reputation: Threatening to harm the reputation of a deceased person in whom the person threatened has an interest falls under this section. Criminal Intimidation by Threatening Harm: General Threat: A person who threatens another (with intent to cause alarm or coerce action) is punishable with: Imprisonment for up to two years, or fine, or both. Criminal Intimidation with Serious Threats: Serious threats involving: Death, grievous hurt, destruction by fire, or offenses punishable with life imprisonment or death, or Imputing unchastity to a woman, shall be punishable by: Imprisonment for up to seven years, or fine, or both. Criminal Intimidation by Anonymous Threat: Anonymous threats or threats made while concealing the identity of the threatener shall carry an additional punishment of: Imprisonment for up to two years, along with any other punishment applicable to the offense under section (1).",
+            "qas": [
+              {
+                "question": "What is the punishment for general criminal intimidation?",
+                "id": "q164",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to two years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 352 - Provocation Leading to Public Disorder. Intentionally Insulting and Provoking: Insulting a person to provoke them into breaking public peace or committing an offense: Imprisonment for up to two years, or fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for insulting someone to provoke public disorder?",
+                "id": "q165",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to two years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 353 - False Statements, Rumors, and Reports. False Statements Leading to Mutiny or Misconduct: Making or circulating false statements or rumors with the intent to: Induce mutiny or cause soldiers, sailors, or airmen to fail in their duties, or Create fear or alarm that could lead to a crime, or Incite violence between communities, is punishable by: Imprisonment for up to three years, or fine, or both. Inciting Hatred or Ill-Will Through False Information: Making or circulating false statements that promote enmity or hatred between different communities or groups (based on religion, race, language, etc.) is punishable by: Imprisonment for up to three years, or fine, or both. Offense Committed in a Place of Worship: If the offense under sub-section (2) is committed in a place of worship or during religious ceremonies, the punishment is: Imprisonment for up to five years, and fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for making false statements that lead to mutiny or misconduct?",
+                "id": "q166",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to three years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+  {
+    "data": [
+      {
+        "title": "Criminal Intimidation, Insult, and Defamation - Continued",
+        "paragraphs": [
+          {
+            "context": "Section 353 - Exception for False Statements. Exception for Good Faith: A person making, publishing, or circulating a false statement, information, rumor, or report will not be considered an offense if they had reasonable grounds to believe the statement was true and acted in good faith without any intent to cause harm or incite fear.",
+            "qas": [
+              {
+                "question": "What is the exception for making false statements under Section 353?",
+                "id": "q167",
+                "answers": [
+                  {
+                    "text": "A person will not be considered an offense if they had reasonable grounds to believe the statement was true and acted in good faith without any intent to cause harm or incite fear.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 354 - Inducing Belief in Divine Displeasure. Inducing Belief in Divine Displeasure: Whoever causes or attempts to cause someone to do something, or not to do something, by inducing them to believe that their actions (or omissions) will incur Divine displeasure will be punished with: Imprisonment for up to one year, or fine, or both. Illustrations: Example 1: A person sits outside someone's door (dharnas) with the intention of causing the other person to believe that their inaction would lead to Divine displeasure. Example 2: A person threatens harm to their own child, suggesting that the harm will lead to Divine displeasure for the person who does not act according to their wishes.",
+            "qas": [
+              {
+                "question": "What is the punishment for inducing belief in Divine displeasure?",
+                "id": "q168",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to one year, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 355 - Intoxication and Annoyance in Public Places. Public Intoxication and Annoyance: Intoxicated individuals causing annoyance in public places or trespassing areas they are not permitted to enter shall be punished with: Simple imprisonment for up to 24 hours, or fine up to ₹1,000, or both, or community service.",
+            "qas": [
+              {
+                "question": "What is the punishment for public intoxication and annoyance?",
+                "id": "q169",
+                "answers": [
+                  {
+                    "text": "Simple imprisonment for up to 24 hours, or fine up to ₹1,000, or both, or community service.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Section 356 - Defamation. Definition of Defamation: Defamation occurs when someone makes or publishes words (spoken, written, or visual) that impute something negative to a person's reputation, intending to harm it or knowing that it will harm the person's reputation. Examples and Explanations: Imputation about a Deceased Person: If an imputation made about a deceased person would harm their reputation if they were alive, and the intention is to harm their family's feelings, it is considered defamation. Imputation about a Group or Association: A defamatory imputation can be made about a company, association, or collective group. Imputation in the Form of an Irony: An imputation expressed ironically or as an alternative may still be defamatory. What Constitutes Harmful Reputation: An imputation is considered defamatory if it lowers the moral or intellectual character of the person, damages their caste or occupation, or affects their credit or reputation. Example: Example 1: Saying 'Z is an honest man; he never stole B's watch' while implying that Z actually stole the watch is defamation. Example 2: Pointing to Z when asked who stole the watch, with the intent to make others believe that Z did it, is defamation.",
+            "qas": [
+              {
+                "question": "What is the definition of defamation?",
+                "id": "q170",
+                "answers": [
+                  {
+                    "text": "Defamation occurs when someone makes or publishes words (spoken, written, or visual) that impute something negative to a person's reputation, intending to harm it or knowing that it will harm the person's reputation.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
+
+  {
+    "data": [
+      {
+        "title": "Defamation - Exceptions to the Offense",
+        "paragraphs": [
+          {
+            "context": "Illustration for Defamation: Example (c): A person who draws a picture of Z running away with B’s watch, intending it to be believed that Z stole B’s watch, is committing defamation unless it falls within one of the exceptions listed below.",
+            "qas": [
+              {
+                "question": "What is the example for defamation in this section?",
+                "id": "q171",
+                "answers": [
+                  {
+                    "text": "A person who draws a picture of Z running away with B’s watch, intending it to be believed that Z stole B’s watch, is committing defamation unless it falls within one of the exceptions.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exceptions to Defamation: Exception 1 - Truth for Public Good: It is not defamation if the imputation made is true concerning a person and it is for the public good that the imputation is made or published. Note: Whether it is for the public good is a question of fact (i.e., it depends on the circumstances and evidence).",
+            "qas": [
+              {
+                "question": "What is the first exception to defamation?",
+                "id": "q172",
+                "answers": [
+                  {
+                    "text": "It is not defamation if the imputation made is true concerning a person and it is for the public good that the imputation is made or published.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 2 - Opinions on Public Servants' Conduct: It is not defamation to express in good faith an opinion about a public servant’s conduct in the discharge of their public functions, or about their character as it appears in that conduct (and no further).",
+            "qas": [
+              {
+                "question": "What does Exception 2 state about public servants?",
+                "id": "q173",
+                "answers": [
+                  {
+                    "text": "It is not defamation to express in good faith an opinion about a public servant’s conduct in the discharge of their public functions, or about their character as it appears in that conduct (and no further).",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 3 - Opinions on Public Matters: It is not defamation to express in good faith an opinion about the conduct of any person related to a public question, and their character as it appears in that conduct (and no further). Illustration: If A expresses an opinion in good faith regarding Z's conduct in petitioning the government or participating in a public meeting, it is not defamation.",
+            "qas": [
+              {
+                "question": "What is Exception 3 about expressing opinions?",
+                "id": "q174",
+                "answers": [
+                  {
+                    "text": "It is not defamation to express in good faith an opinion about the conduct of any person related to a public question, and their character as it appears in that conduct (and no further).",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 4 - True Reports of Court Proceedings: It is not defamation to publish a substantially true report of the proceedings of a Court, or the result of any such proceedings. Explanation: A Magistrate or any officer holding an inquiry in open Court (preliminary to a trial) is considered a Court under this section.",
+            "qas": [
+              {
+                "question": "What is Exception 4 about reports of court proceedings?",
+                "id": "q175",
+                "answers": [
+                  {
+                    "text": "It is not defamation to publish a substantially true report of the proceedings of a Court, or the result of any such proceedings.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 5 - Opinions on Merits of Court Decisions: It is not defamation to express in good faith an opinion regarding the merits of any civil or criminal case decided by a Court, or to express an opinion about the conduct of any person involved in the case (party, witness, agent), regarding their character as it appears in their conduct in the case (and no further). Illustrations: (a): A says, 'I think Z's evidence on that trial is so contradictory that he must be stupid or dishonest'—A is within this exception if said in good faith. (b): A says, 'I do not believe what Z asserted at that trial because I know him to be a man without veracity'—A is not within this exception as it reflects an opinion on Z’s general character, not just his conduct in the trial.",
+            "qas": [
+              {
+                "question": "What is Exception 5 about expressing opinions on court decisions?",
+                "id": "q176",
+                "answers": [
+                  {
+                    "text": "It is not defamation to express in good faith an opinion regarding the merits of any civil or criminal case decided by a Court, or to express an opinion about the conduct of any person involved in the case regarding their character as it appears in their conduct in the case.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 6 - Opinions on Public Performances: It is not defamation to express in good faith an opinion about the merits of a public performance (such as a book, speech, or stage performance), or about the character of the performer as it appears in the performance (and no further). Explanation: A performance is considered as submitted to the public judgment either explicitly (e.g., publishing a book) or implicitly (e.g., acting in a public play). Illustrations: (a): A book published by an author is considered submitted to the public's judgment. (b): A public speech is submitted to public judgment. (c): A stage performance by an actor or singer is submitted to public judgment.",
+            "qas": [
+              {
+                "question": "What is Exception 6 about public performances?",
+                "id": "q177",
+                "answers": [
+                  {
+                    "text": "It is not defamation to express in good faith an opinion about the merits of a public performance (such as a book, speech, or stage performance), or about the character of the performer as it appears in the performance.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+  {
+    "data": [
+      {
+        "title": "Defamation - Additional Exceptions and Punishments",
+        "paragraphs": [
+          {
+            "context": "Illustrations for Exceptions: Example (d): A says about Z's book, 'Z's book is foolish; Z must be a weak man. Z’s book is indecent; Z must be a man of impure mind.' A is within the exception if the opinion expressed is based on Z’s book, in good faith, and respects Z’s character only as it appears in the book. Example (e): A says, 'I am not surprised that Z’s book is foolish and indecent, for he is a weak man and a libertine.' A is not within the exception because the opinion about Z’s character is not based on the book, but rather is a general judgment about Z as a person.",
+            "qas": [
+              {
+                "question": "What does Example (d) describe about opinions on Z’s book?",
+                "id": "q178",
+                "answers": [
+                  {
+                    "text": "A is within the exception if the opinion expressed is based on Z’s book, in good faith, and respects Z’s character only as it appears in the book.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Additional Exceptions to Defamation: Exception 7 - Authority and Censure: It is not defamation if a person, who has authority over another (either by law or lawful contract), passes good faith censure on that person's conduct in matters to which such lawful authority relates. Illustration: A Judge censuring a witness or officer in court. A parent censuring a child in the presence of other children. A master censuring a servant for remissness in service.",
+            "qas": [
+              {
+                "question": "What is Exception 7 about authority and censure?",
+                "id": "q179",
+                "answers": [
+                  {
+                    "text": "It is not defamation if a person, who has authority over another (either by law or lawful contract), passes good faith censure on that person's conduct in matters to which such lawful authority relates.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 8 - Accusations to Those with Lawful Authority: It is not defamation to make an accusation in good faith to someone with lawful authority over the accused, related to the subject of the accusation. Illustration: A accuses Z before a Magistrate in good faith. A complains about Z’s conduct as a servant to Z’s employer. A complains about Z’s conduct as a child to Z’s parent.",
+            "qas": [
+              {
+                "question": "What does Exception 8 state about accusations?",
+                "id": "q180",
+                "answers": [
+                  {
+                    "text": "It is not defamation to make an accusation in good faith to someone with lawful authority over the accused, related to the subject of the accusation.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 9 - Imputation for Protection of Interests: It is not defamation to make an imputation in good faith for the protection of personal or others' interests, or for the public good. Illustrations: (a) A, a shopkeeper, tells B, the manager, not to sell to Z unless Z pays in cash, stating, 'I have no opinion of his honesty.' (b) A, a Magistrate, reports on Z's character to a superior officer in good faith for the public good.",
+            "qas": [
+              {
+                "question": "What does Exception 9 state about imputations for protection of interests?",
+                "id": "q181",
+                "answers": [
+                  {
+                    "text": "It is not defamation to make an imputation in good faith for the protection of personal or others' interests, or for the public good.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Exception 10 - Conveying a Caution for Good: It is not defamation to caution someone in good faith about another person, provided the caution is for the good of the person receiving it, their interests, or for the public good.",
+            "qas": [
+              {
+                "question": "What is Exception 10 about conveying a caution for good?",
+                "id": "q182",
+                "answers": [
+                  {
+                    "text": "It is not defamation to caution someone in good faith about another person, provided the caution is for the good of the person receiving it, their interests, or for the public good.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Punishments for Defamation: Punishment for Defamation: Imprisonment for up to two years, or fine, or both, or community service. Punishment for Printing Defamatory Material: If someone prints or engraves defamatory content, knowing or having good reason to believe it is defamatory, they can face: Imprisonment for up to two years, or fine, or both. Punishment for Selling Defamatory Material: Anyone selling or offering for sale material known to be defamatory shall be punished with: Imprisonment for up to two years, or fine, or both.",
+            "qas": [
+              {
+                "question": "What is the punishment for defamation?",
+                "id": "q183",
+                "answers": [
+                  {
+                    "text": "Imprisonment for up to two years, or fine, or both, or community service.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "What happens if someone prints defamatory material?",
+                "id": "q184",
+                "answers": [
+                  {
+                    "text": "If someone prints or engraves defamatory content, knowing or having good reason to believe it is defamatory, they can face imprisonment for up to two years, or fine, or both.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+
+
+  {
+    "data": [
+      {
+        "title": "Section 357: Neglect of Duty by a Person Bound by a Lawful Contract",
+        "paragraphs": [
+          {
+            "context": "Punishment for Omission: Whoever is legally bound by a contract to attend to or supply the needs of a person who is helpless, due to youth, unsoundness of mind, or a disease or bodily weakness, and voluntarily omits to perform that duty, shall face: Imprisonment (either description) for up to three months, or Fine up to ₹5,000, or Both imprisonment and fine.",
+            "qas": [
+              {
+                "question": "What is the punishment for neglecting a duty under a lawful contract for a helpless person?",
+                "id": "q185",
+                "answers": [
+                  {
+                    "text": "Imprisonment (either description) for up to three months, or Fine up to ₹5,000, or Both imprisonment and fine.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chapter XX: Repeal and Savings",
+        "paragraphs": [
+          {
+            "context": "Section 358: Repeal and Savings of the Indian Penal Code\nRepeal of the Indian Penal Code: The Indian Penal Code (IPC) is officially repealed under this section.\nExceptions to Repeal: Despite the repeal, the following provisions are unaffected: a. Previous Operations: The previous operation of the repealed Code or anything that was lawfully done or suffered under it remains valid. b. Rights and Liabilities: Any rights, privileges, obligations, or liabilities acquired under the repealed Code are still valid. c. Penalties and Punishments: Any penalties or punishments incurred for offenses committed under the repealed Code continue to apply. d. Investigations: Investigations or remedies related to any penalties or punishments incurred remain valid. e. Proceedings: Proceedings, investigations, or remedies related to penalties or punishments incurred may be continued, and penalties can still be imposed as if the Code had not been repealed.",
+            "qas": [
+              {
+                "question": "What does Section 358 of the Indian Penal Code deal with?",
+                "id": "q186",
+                "answers": [
+                  {
+                    "text": "The repeal of the Indian Penal Code and the exceptions to the repeal.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Actions Under the Repealed Code: Anything done or any action taken under the repealed Indian Penal Code shall be treated as if it was done under the corresponding provisions of the new Code (Sanhita). General Clauses Act, 1897: The repeal of the Indian Penal Code does not affect the general application of Section 6 of the General Clauses Act, 1897, which governs the effects of repeal.",
+            "qas": [
+              {
+                "question": "What happens to actions done under the repealed Indian Penal Code?",
+                "id": "q187",
+                "answers": [
+                  {
+                    "text": "Anything done or any action taken under the repealed Indian Penal Code shall be treated as if it was done under the corresponding provisions of the new Code (Sanhita).",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+  
+  
