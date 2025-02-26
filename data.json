@@ -6032,9 +6032,2471 @@
                             ]
                         }
                     ]
-                }
-            ]
-        },
+                },
+                {
+                    "context": "Whoever makes or mends, or performs any part of the process of making or mending, or buys or sells or disposes of, or has in his possession, any machinery, die, or instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any coin, stamp issued by Government for the purpose of revenue, currency-note or bank-note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for forging or counterfeiting coins, stamps, or currency notes?",
+                        "id": "q427",
+                        "answers": [
+                          {
+                            "text": "Imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+                            "answer_start": 346
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What materials are mentioned as being used for forging or counterfeiting?",
+                        "id": "q428",
+                        "answers": [
+                          {
+                            "text": "Machinery, die, or instrument or material",
+                            "answer_start": 69
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever makes, or causes to be made, or uses for any purpose whatsoever, or delivers to any person, any document purporting to be, or in any way resembling, or so nearly resembling as to be calculated to deceive, any currency-note or bank-note shall be punished with fine which may extend to three hundred rupees.",
+                    "qas": [
+                      {
+                        "question": "What is the fine for making or using a document resembling a currency-note?",
+                        "id": "q429",
+                        "answers": [
+                          {
+                            "text": "Fine which may extend to three hundred rupees.",
+                            "answer_start": 209
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "If any person, whose name appears on a document the making of which is an offence under sub-section (1), refuses, without lawful excuse, to disclose to a police officer on being so required the name and address of the person by whom it was printed or otherwise made, he shall be punished with fine which may extend to six hundred rupees.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for refusing to disclose the name and address of the person who printed an offending document?",
+                        "id": "q430",
+                        "answers": [
+                          {
+                            "text": "Fine which may extend to six hundred rupees.",
+                            "answer_start": 229
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, fraudulently or with intent to cause loss to the Government, removes or effaces from any substance, bearing any stamp issued by Government for the purpose of revenue, any writing or document for which such stamp has been used, or removes from any writing or document a stamp which has been used for such writing or document, in order that such stamp may be used for a different writing or document, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for fraudulently removing or reusing a revenue stamp?",
+                        "id": "q431",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                            "answer_start": 399
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, fraudulently or with intent to cause loss to Government, erases or removes from a stamp issued by Government for the purpose of revenue, any mark, put or impressed upon such stamp for the purpose of denoting that the same has been used, or knowingly has in his possession or sells or disposes of any such stamp from which such mark has been erased or removed, or sells or disposes of any such stamp which he knows to have been used, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for erasing marks from used revenue stamps?",
+                        "id": "q432",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                            "answer_start": 357
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "Whoever— (a) makes, knowingly utters, deals in or sells any fictitious stamp, or knowingly uses for any postal purpose any fictitious stamp; or (b) has in his possession, without lawful excuse, any fictitious stamp; or (c) makes or, without lawful excuse, has in his possession any die, plate, instrument or materials for making any fictitious stamp, shall be punished with fine which may extend to two hundred rupees.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for making, using, or possessing a fictitious stamp?",
+                        "id": "q433",
+                        "answers": [
+                          {
+                            "text": "Fine which may extend to two hundred rupees.",
+                            "answer_start": 312
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What does 'fictitious stamp' mean according to the section?",
+                        "id": "q434",
+                        "answers": [
+                          {
+                            "text": "Any stamp falsely purporting to be issued by Government for the purpose of denoting a rate of postage, or any facsimile or imitation or representation, whether on paper or otherwise, of any stamp issued by Government for that purpose.",
+                            "answer_start": 375
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What happens to seized fictitious stamps or related materials?",
+                        "id": "q435",
+                        "answers": [
+                          {
+                            "text": "If seized shall be forfeited.",
+                            "answer_start": 234
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being employed in any mint lawfully established in India, does any act, or omits what he is legally bound to do, with the intention of causing any coin issued from that mint to be of a different weight or composition from the weight or composition fixed by law, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for altering the weight or composition of coins issued from a mint?",
+                        "id": "q436",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                            "answer_start": 270
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, without lawful authority, takes out of any mint, lawfully established in India, any coining tool or instrument, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for taking out coining tools or instruments from a mint without lawful authority?",
+                        "id": "q437",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                            "answer_start": 189
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "An assembly of five or more persons is designated an 'unlawful assembly', if the common object of the persons composing that assembly is— (a) to overawe by criminal force, or show of criminal force, the Central Government or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or (b) to resist the execution of any law, or of any legal process; or (c) to commit any mischief or criminal trespass, or other offence; or (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.",
+                    "qas": [
+                      {
+                        "question": "What is the minimum number of persons required to form an unlawful assembly?",
+                        "id": "q438",
+                        "answers": [
+                          {
+                            "text": "Five",
+                            "answer_start": 31
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What are the actions that make an assembly unlawful?",
+                        "id": "q439",
+                        "answers": [
+                          {
+                            "text": "(a) to overawe by criminal force, or show of criminal force, the Central Government or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or (b) to resist the execution of any law, or of any legal process; or (c) to commit any mischief or criminal trespass, or other offence; or (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.",
+                            "answer_start": 92
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being aware of facts which render any assembly an unlawful assembly, intentionally joins that assembly, or continues in it, is said to be a member of an unlawful assembly and such member shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for being a member of an unlawful assembly?",
+                        "id": "q440",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                            "answer_start": 229
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for being armed as a member of an unlawful assembly?",
+                        "id": "q441",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                            "answer_start": 191
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever hires or engages, or employs, or promotes, or connives at the hiring, engagement or employment of any person to join or become a member of any unlawful assembly, shall be punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly in pursuance of such hiring, engagement or employment, in the same manner as if he had been a member of such unlawful assembly, or himself had committed such offence.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for hiring or promoting someone to join an unlawful assembly?",
+                        "id": "q442",
+                        "answers": [
+                          {
+                            "text": "Punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly.",
+                            "answer_start": 196
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.",
+                    "qas": [
+                      {
+                        "question": "Who is guilty of an offence committed by an unlawful assembly?",
+                        "id": "q443",
+                        "answers": [
+                          {
+                            "text": "Every person who, at the time of the committing of that offence, is a member of the same assembly.",
+                            "answer_start": 234
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly, every member of such assembly is guilty of the offence of rioting.",
+                    "qas": [
+                      {
+                        "question": "What constitutes the offence of rioting?",
+                        "id": "q444",
+                        "answers": [
+                          {
+                            "text": "Force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly.",
+                            "answer_start": 9
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for rioting?",
+                        "id": "q445",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                            "answer_start": 62
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever is guilty of rioting, being armed with a deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for rioting while being armed with a deadly weapon?",
+                        "id": "q446",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+                            "answer_start": 169
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment if rioting is committed due to provocation?",
+                        "id": "q447",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                            "answer_start": 272
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment if rioting is not committed despite provocation?",
+                        "id": "q448",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                            "answer_start": 365
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "Whenever any unlawful assembly or riot takes place, the owner or occupier of the land upon which such unlawful assembly is held, or such riot is committed, and any person having or claiming an interest in such land, shall be punishable with fine not exceeding one thousand rupees, if he or his agent or manager, knowing that such offence is being or has been committed, or having reason to believe it is likely to be committed, do not give the earliest notice thereof in his or their power to the officer in charge at the nearest police station, and do not, in the case of his or their having reason to believe that it was about to be committed, use all lawful means in his or their power to prevent it and, in the event of its taking place, do not use all lawful means in his or their power to disperse or suppress the riot or unlawful assembly.",
+                    "qas": [
+                      {
+                        "question": "Who is punishable if an unlawful assembly or riot occurs on their land?",
+                        "id": "q449",
+                        "answers": [
+                          {
+                            "text": "The owner or occupier of the land, and any person having or claiming an interest in such land.",
+                            "answer_start": 84
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the maximum fine for failing to report or prevent an unlawful assembly or riot?",
+                        "id": "q450",
+                        "answers": [
+                          {
+                            "text": "One thousand rupees.",
+                            "answer_start": 215
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "When two or more persons, by fighting in a public place, disturb the public peace, they are said to commit an affray. Whoever commits an affray, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to one thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is an affray?",
+                        "id": "q451",
+                        "answers": [
+                          {
+                            "text": "When two or more persons, by fighting in a public place, disturb the public peace.",
+                            "answer_start": 0
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for committing an affray?",
+                        "id": "q452",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one month, or with fine which may extend to one thousand rupees, or with both.",
+                            "answer_start": 115
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever assaults or obstructs any public servant or uses criminal force on any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which shall not be less than twenty-five thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for assaulting a public servant dispersing an unlawful assembly?",
+                        "id": "q453",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to three years, or with fine which shall not be less than twenty-five thousand rupees, or with both.",
+                            "answer_start": 241
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever threatens to assault or attempts to obstruct any public servant or threatens or attempts to use criminal force to any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for threatening to obstruct a public servant dispersing an unlawful assembly?",
+                        "id": "q454",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                            "answer_start": 246
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "Whoever by words, either spoken or written, or by signs or by visible representations or through electronic communication or otherwise, promotes or attempts to promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, disharmony or feelings of enmity, hatred or ill-will between different religious, racial, language or regional groups or castes or communities shall be punished with imprisonment which may extend to three years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for promoting disharmony between different groups?",
+                        "id": "q455",
+                        "answers": [
+                          {
+                            "text": "Imprisonment which may extend to three years, or with fine, or with both.",
+                            "answer_start": 339
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What actions can lead to punishment under this law?",
+                        "id": "q456",
+                        "answers": [
+                          {
+                            "text": "Promotes or attempts to promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, disharmony or feelings of enmity, hatred or ill-will between different groups.",
+                            "answer_start": 56
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever commits an offence specified in sub-section (1) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for committing the offence in a place of worship?",
+                        "id": "q457",
+                        "answers": [
+                          {
+                            "text": "Imprisonment which may extend to five years and shall also be liable to fine.",
+                            "answer_start": 155
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever by words either spoken or written or by signs or by visible representations or through electronic communication or otherwise, makes or publishes any imputation that any class of persons cannot, by reason of their being members of any religious, racial, language or regional group or caste or community, bear true faith and allegiance to the Constitution of India as by law established or uphold the sovereignty and integrity of India shall be punished with imprisonment which may extend to three years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for making imputations against a class of persons regarding their faith in the Constitution?",
+                        "id": "q458",
+                        "answers": [
+                          {
+                            "text": "Imprisonment which may extend to three years, or with fine, or with both.",
+                            "answer_start": 428
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What kind of imputations are punishable under this law?",
+                        "id": "q459",
+                        "answers": [
+                          {
+                            "text": "Imputations that any class of persons cannot, by reason of their being members of any religious, racial, language or regional group or caste or community, bear true faith and allegiance to the Constitution of India or uphold the sovereignty and integrity of India.",
+                            "answer_start": 181
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever commits an offence specified in sub-section (1) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the enhanced punishment for committing an offence in a religious assembly?",
+                        "id": "q460",
+                        "answers": [
+                          {
+                            "text": "Imprisonment which may extend to five years and shall also be liable to fine.",
+                            "answer_start": 155
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will by such disobedience, cause injury to any person, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for knowingly disobeying the law as a public servant?",
+                        "id": "q461",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one year, or with fine, or with both.",
+                            "answer_start": 241
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being a public servant,— (a) knowingly disobeys any direction of the law which prohibits him from requiring the attendance at any place of any person for the purpose of investigation into an offence or any other matter; or (b) knowingly disobeys, to the prejudice of any person, any other direction of the law regulating the manner in which he shall conduct such investigation; or (c) fails to record any information given to him under sub-section (1) of section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 in relation to cognizable offence punishable under various sections, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for failing to record information under Section 173?",
+                        "id": "q462",
+                        "answers": [
+                          {
+                            "text": "Rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.",
+                            "answer_start": 540
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section 397 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for contravening Section 397 as a hospital in-charge?",
+                        "id": "q463",
+                        "answers": [
+                          {
+                            "text": "Imprisonment for a term which may extend to one year, or with fine, or with both.",
+                            "answer_start": 341
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document or electronic record, frames, prepares or translates that document or electronic record in a manner which he knows or believes to be incorrect, intending thereby to cause or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for preparing incorrect documents as a public servant?",
+                        "id": "q464",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                            "answer_start": 386
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever pretends to hold any particular office as a public servant, knowing that he does not hold such office or falsely personates any other person holding such office, and in such assumed character does or attempts to do any act under colour of such office, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to three years and with fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for falsely personating a public servant?",
+                        "id": "q465",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which shall not be less than six months but which may extend to three years and with fine.",
+                            "answer_start": 294
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "Whoever absconds in order to avoid being served with a summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order,–– (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where such summons or notice or order is to attend in person or by agent, or to produce a document or an electronic record in a Court shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for absconding to avoid summons or notice?",
+                        "id": "q466",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 220
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment if the summons is to attend in Court?",
+                        "id": "q467",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                            "answer_start": 318
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made,–– (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where the summons, notice, order or proclamation is to attend in person or by agent, or to produce a document or electronic record in a Court, with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for intentionally preventing the serving of summons?",
+                        "id": "q468",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 473
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, notice, order, or proclamation proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at that place or time or departs from the place where he is bound to attend before the time at which it is lawful for him to depart,–– (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where the summons, notice, order or proclamation is to attend in person or by agent in a Court with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for failing to attend in obedience to a summons?",
+                        "id": "q469",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 456
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever fails to appear at the specified place and the specified time as required by a proclamation published under sub-section (1) of section 84 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both, or with community service, and where a declaration has been made under sub-section (4) of that section pronouncing him as a proclaimed offender, he shall be punished with imprisonment for a term which may extend to seven years and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for failing to appear under Section 84?",
+                        "id": "q470",
+                        "answers": [
+                          {
+                            "text": "Imprisonment for a term which may extend to three years, or with fine, or with both, or with community service.",
+                            "answer_start": 196
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for being declared a proclaimed offender?",
+                        "id": "q471",
+                        "answers": [
+                          {
+                            "text": "Imprisonment for a term which may extend to seven years and shall also be liable to fine.",
+                            "answer_start": 342
+                          }
+                        ]
+                      }
+                    ]
+                  }, {
+                    "context": "Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same,–– (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) and where the document or electronic record is to be produced or delivered up to a Court with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for intentionally omitting to deliver a document or electronic record to a public servant?",
+                        "id": "q472",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 210
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for omitting to deliver a document to a court?",
+                        "id": "q473",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                            "answer_start": 359
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law,–– (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both; (c) where the notice or information required to be given is required by an order passed under section 394 of the Bharatiya Nagarik Suraksha Sanhita, 2023 with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for omitting to furnish required notice or information to a public servant?",
+                        "id": "q474",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 242
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment if the omitted information respects the commission of an offence?",
+                        "id": "q475",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                            "answer_start": 343
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for not giving information required by an order under section 394 of the Bharatiya Nagarik Suraksha Sanhita, 2023?",
+                        "id": "q476",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+                            "answer_start": 532
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false,–– (a) shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both; (b) where the information which he is legally bound to give respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for providing false information to a public servant?",
+                        "id": "q477",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 203
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for giving false information related to the commission of an offence?",
+                        "id": "q478",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                            "answer_start": 351
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "A, a landholder, knowing of the commission of a murder within the limits of his estate, wilfully misinforms the Magistrate of the district that the death has occurred by accident in consequence of the bite of a snake. A is guilty of the offence defined in this section.",
+                    "qas": [
+                      {
+                        "question": "What does A do to misinform the Magistrate?",
+                        "id": "q479",
+                        "answers": [
+                          {
+                            "text": "Wilfully misinforms the Magistrate of the district that the death has occurred by accident in consequence of the bite of a snake.",
+                            "answer_start": 89
+                          }
+                        ]
+                      }
+                    ]
+                  }, {
+                    "context": "Whoever refuses to bind himself by an oath or affirmation to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for refusing to take an oath or affirmation to state the truth?",
+                        "id": "q480",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 207
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant in the exercise of the legal powers of such public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for refusing to answer a question from a public servant when legally bound?",
+                        "id": "q481",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 275
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with simple imprisonment for a term which may extend to three months, or with fine which may extend to three thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for refusing to sign a statement made to a public servant?",
+                        "id": "q482",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to three months, or with fine which may extend to three thousand rupees, or with both.",
+                            "answer_start": 211
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever, being legally bound by an oath or affirmation to state the truth on any subject to any public servant or other person authorised by law to administer such oath or affirmation, makes, to such public servant or other person as aforesaid, touching that subject, any statement which is false, and which he either knows or believes to be false or does not believe to be true, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for making a false statement under oath?",
+                        "id": "q483",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+                            "answer_start": 296
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant— (a) to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him; or (b) to use the lawful power of such public servant to the injury or annoyance of any person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for giving false information to a public servant to cause an omission or annoyance?",
+                        "id": "q484",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+                            "answer_start": 354
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "context": "A informs a Magistrate that Z, a police officer, subordinate to such Magistrate, has been guilty of neglect of duty or misconduct, knowing such information to be false, and knowing it to be likely that the information will cause the Magistrate to dismiss Z. A has committed the offence defined in this section.",
+                    "qas": [
+                      {
+                        "question": "What false information does A give to the Magistrate?",
+                        "id": "q485",
+                        "answers": [
+                          {
+                            "text": "Z, a police officer, subordinate to such Magistrate, has been guilty of neglect of duty or misconduct.",
+                            "answer_start": 18
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What does A intend to cause by giving false information to the Magistrate?",
+                        "id": "q486",
+                        "answers": [
+                          {
+                            "text": "Knowing it to be likely that the information will cause the Magistrate to dismiss Z.",
+                            "answer_start": 157
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "A falsely informs a public servant that Z has contraband salt in a secret place, knowing such information to be false, and knowing that it is likely that the consequence of the information will be a search of Z's premises, attended with annoyance to Z. A has committed the offence defined in this section.",
+                    "qas": [
+                      {
+                        "question": "What false information does A give to the public servant about Z?",
+                        "id": "q487",
+                        "answers": [
+                          {
+                            "text": "Z has contraband salt in a secret place.",
+                            "answer_start": 26
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the likely consequence of A's false information about Z?",
+                        "id": "q488",
+                        "answers": [
+                          {
+                            "text": "A search of Z's premises, attended with annoyance to Z.",
+                            "answer_start": 123
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that he is such public servant, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for resisting the lawful taking of property by a public servant?",
+                        "id": "q489",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                            "answer_start": 191
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant, as such, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for intentionally obstructing a property sale by a public servant?",
+                        "id": "q490",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 176
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever, at any sale of property held by the lawful authority of a public servant, as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for bidding on property while knowing the purchaser is legally incapacitated?",
+                        "id": "q491",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.",
+                            "answer_start": 371
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand and five hundred rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for voluntarily obstructing a public servant in their duties?",
+                        "id": "q492",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand and five hundred rupees, or with both.",
+                            "answer_start": 132
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance,–– (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to two thousand and five hundred rupees, or with both; (b) and where such assistance be demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a Court or of preventing the commission of an offence, or suppressing a riot, or affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for failing to assist a public servant when bound by law?",
+                        "id": "q493",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one month, or with fine which may extend to two thousand and five hundred rupees, or with both.",
+                            "answer_start": 237
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment if such assistance was demanded for suppressing a riot or apprehending an offender?",
+                        "id": "q494",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 511
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "Whoever, knowing that, by an order promulgated by a public servant lawfully empowered to promulgate such order, he is directed to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction,–– (a) shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any person lawfully employed, be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to two thousand and five hundred rupees, or with both; (b) and where such disobedience causes or tends to cause danger to human life, health or safety, or causes or tends to cause a riot or affray, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for disobeying a public servant's lawful order causing annoyance or obstruction?",
+                        "id": "q495",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to two thousand and five hundred rupees, or with both.",
+                            "answer_start": 255
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for disobedience leading to danger to human life or causing a riot?",
+                        "id": "q496",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+                            "answer_start": 469
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever holds out any threat of injury to any public servant, or to any person in whom he believes that public servant to be interested, for the purpose of inducing that public servant to do any act, or to forbear or delay to do any act, connected with the exercise of the public functions of such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for threatening a public servant to influence their actions?",
+                        "id": "q497",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                            "answer_start": 309
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever holds out any threat of injury to any person for the purpose of inducing that person to refrain or desist from making a legal application for protection against any injury to any public servant legally empowered as such to give such protection, or to cause such protection to be given, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for threatening someone to prevent them from seeking protection for a public servant?",
+                        "id": "q498",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                            "answer_start": 323
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever attempts to commit suicide with the intent to compel or restrain any public servant from discharging his official duty shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for attempting suicide to influence a public servant's duties?",
+                        "id": "q499",
+                        "answers": [
+                          {
+                            "text": "Simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service.",
+                            "answer_start": 178
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever, being legally bound by an oath or by an express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence. Explanation 1.—A statement is within the meaning of this section, whether it is made verbally or otherwise. Explanation 2.—A false statement as to the belief of the person attesting is within the meaning of this section, and a person may be guilty of giving false evidence by stating that he believes a thing which he does not believe, as well as by stating that he knows a thing which he does not know.",
+                    "qas": [
+                      {
+                        "question": "What constitutes giving false evidence under this law?",
+                        "id": "q500",
+                        "answers": [
+                          {
+                            "text": "Making any statement which is false, and which the person either knows or believes to be false or does not believe to be true.",
+                            "answer_start": 177
+                          }
+                        ]
+                      },
+                      {
+                        "question": "Can a false verbal statement be considered false evidence?",
+                        "id": "q501",
+                        "answers": [
+                          {
+                            "text": "A statement is within the meaning of this section, whether it is made verbally or otherwise.",
+                            "answer_start": 311
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever causes any circumstance to exist or makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement, intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said "to fabricate false evidence".",
+                    "qas": [
+                      {
+                        "question": "What is the definition of fabricating false evidence?",
+                        "id": "q502",
+                        "answers": [
+                          {
+                            "text": "Causing any circumstance to exist or making any false entry in any book, record, or electronic record, or making any document or electronic record containing a false statement, intending that it may appear in evidence and cause an erroneous opinion in a judicial proceeding.",
+                            "answer_start": 8
+                          }
+                        ]
+                      },
+                      {
+                        "question": "Can false entries in electronic records be considered as fabricating false evidence?",
+                        "id": "q503",
+                        "answers": [
+                          {
+                            "text": "Yes, making any false entry in an electronic record with the intention that it may appear in evidence is considered fabricating false evidence.",
+                            "answer_start": 76
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Illustrations: (a) A puts jewels into a box belonging to Z, with the intention that they may be found in that box, and that this circumstance may cause Z to be convicted of theft. A has fabricated false evidence. (b) A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court. A has fabricated false evidence. (c) A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z's handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search. A has fabricated false evidence.",
+                    "qas": [
+                      {
+                        "question": "What is an example of fabricating false evidence involving a false entry in a shop-book?",
+                        "id": "q504",
+                        "answers": [
+                          {
+                            "text": "A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court.",
+                            "answer_start": 203
+                          }
+                        ]
+                      },
+                      {
+                        "question": "How does fabricating a letter in imitation of handwriting qualify as false evidence?",
+                        "id": "q505",
+                        "answers": [
+                          {
+                            "text": "Writing a letter in imitation of Z's handwriting, purporting to be addressed to an accomplice, and placing it where police are likely to search.",
+                            "answer_start": 277
+                          }
+                        ]
+                      }
+                    ]
+                  },{
+                    "context": "Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine which may extend to ten thousand rupees. Whoever intentionally gives or fabricates false evidence in any case other than that referred to in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine which may extend to five thousand rupees. Explanation 1.—A trial before a Court-martial is a judicial proceeding. Explanation 2.—An investigation directed by law preliminary to a proceeding before a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court. Explanation 3.—An investigation directed by a Court according to law, and conducted under the authority of a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for giving false evidence in a judicial proceeding?",
+                        "id": "q506",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to seven years, and fine up to ten thousand rupees.",
+                            "answer_start": 129
+                          }
+                        ]
+                      },
+                      {
+                        "question": "Does a trial before a Court-martial count as a judicial proceeding?",
+                        "id": "q507",
+                        "answers": [
+                          {
+                            "text": "A trial before a Court-martial is a judicial proceeding.",
+                            "answer_start": 393
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for fabricating false evidence in cases not related to judicial proceedings?",
+                        "id": "q508",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to three years, and fine up to five thousand rupees.",
+                            "answer_start": 248
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by the law for the time being in force in India shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine which may extend to fifty thousand rupees. If an innocent person be convicted and executed in consequence of false evidence referred to in sub-section (1), the person who gives such false evidence shall be punished either with death or the punishment specified in sub-section (1).",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for giving false evidence leading to a conviction in a capital offence?",
+                        "id": "q509",
+                        "answers": [
+                          {
+                            "text": "Imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, and fine up to fifty thousand rupees.",
+                            "answer_start": 199
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment if an innocent person is executed due to false evidence?",
+                        "id": "q510",
+                        "answers": [
+                          {
+                            "text": "The person who gives such false evidence shall be punished either with death or the punishment specified in sub-section (1).",
+                            "answer_start": 376
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by the law for the time being in force in India is not capital, but punishable with imprisonment for life, or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished. Illustration: A gives false evidence before a Court, intending thereby to cause Z to be convicted of a dacoity. The punishment of dacoity is imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, with or without fine. A, therefore, is liable to imprisonment for life or imprisonment, with or without fine.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for giving false evidence in non-capital offences?",
+                        "id": "q511",
+                        "answers": [
+                          {
+                            "text": "The person shall be punished as a person convicted of that offence would be liable to be punished.",
+                            "answer_start": 278
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What is the punishment for dacoity in India?",
+                        "id": "q512",
+                        "answers": [
+                          {
+                            "text": "Imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, with or without fine.",
+                            "answer_start": 399
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                  
+                  {
+                    "context": "Whoever threatens another with any injury to his person, reputation or property or to the person or reputation of any one in whom that person is interested, with intent to cause that person to give false evidence shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. If an innocent person is convicted and sentenced in consequence of false evidence referred to in sub-section (1), with death or imprisonment for more than seven years, the person who threatens shall be punished with the same punishment and sentence in the same manner and to the same extent such innocent person is punished and sentenced.",
+                    "qas": [
+                      {
+                        "question": "What is the punishment for threatening someone to give false evidence?",
+                        "id": "q513",
+                        "answers": [
+                          {
+                            "text": "Imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+                            "answer_start": 235
+                          }
+                        ]
+                      },
+                      {
+                        "question": "What happens if an innocent person is sentenced to death due to false evidence provided under threat?",
+                        "id": "q514",
+                        "answers": [
+                          {
+                            "text": "The person who threatens shall be punished with the same punishment and sentence in the same manner and to the same extent such innocent person is punished and sentenced.",
+                            "answer_start": 366
+                          }
+                        ]
+                      }
+                    ]
+                  },[
+                    {
+                      "context": "Whoever corruptly uses or attempts to use as true or genuine evidence any evidence which he knows to be false or fabricated, shall be punished in the same manner as if he gave or fabricated false evidence.",
+                      "qas": [
+                        {
+                          "question": "What is the punishment for using or attempting to use false evidence?",
+                          "id": "q515",
+                          "answers": [
+                            {
+                              "text": "Punished in the same manner as if he gave or fabricated false evidence.",
+                              "answer_start": 127
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "context": "Whoever issues or signs any certificate required by law to be given or signed, or relating to any fact of which such certificate is by law admissible in evidence, knowing or believing that such certificate is false in any material point, shall be punished in the same manner as if he gave false evidence.",
+                      "qas": [
+                        {
+                          "question": "What is the punishment for issuing or signing a false certificate?",
+                          "id": "q516",
+                          "answers": [
+                            {
+                              "text": "Punished in the same manner as if he gave false evidence.",
+                              "answer_start": 206
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "context": "Whoever corruptly uses or attempts to use any such certificate as a true certificate, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.",
+                      "qas": [
+                        {
+                          "question": "What is the punishment for using or attempting to use a false certificate as true?",
+                          "id": "q517",
+                          "answers": [
+                            {
+                              "text": "Punished in the same manner as if he gave false evidence.",
+                              "answer_start": 179
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "context": "Whoever, in any declaration made or subscribed by him, which declaration any Court or any public servant or other person, is bound or authorised by law to receive as evidence of any fact, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, touching any point material to the object for which the declaration is made or used, shall be punished in the same manner as if he gave false evidence.",
+                      "qas": [
+                        {
+                          "question": "What is the punishment for making a false statement in a declaration?",
+                          "id": "q518",
+                          "answers": [
+                            {
+                              "text": "Punished in the same manner as if he gave false evidence.",
+                              "answer_start": 295
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "context": "Whoever corruptly uses or attempts to use as true any such declaration, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.",
+                      "qas": [
+                        {
+                          "question": "What is the punishment for using a false declaration as true?",
+                          "id": "q519",
+                          "answers": [
+                            {
+                              "text": "Punished in the same manner as if he gave false evidence.",
+                              "answer_start": 154
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "context": "Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false shall,— (a) if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment for any term not extending to ten years, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.",
+                      "qas": [
+                        {
+                          "question": "What is the punishment for causing evidence to disappear in case of an offence punishable with death?",
+                          "id": "q520",
+                          "answers": [
+                            {
+                              "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                              "answer_start": 373
+                            }
+                          ]
+                        }
+                      ]
+                    },{
+                        "context": "Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false shall,— (a) if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment for any term not extending to ten years, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for causing evidence to disappear in case of an offence punishable with imprisonment for life?",
+                            "id": "q521",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+                                "answer_start": 409
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is the punishment for causing evidence to disappear for an offence punishable with imprisonment for a term not extending to ten years?",
+                            "id": "q522",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.",
+                                "answer_start": 453
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, knowing or having reason to believe that an offence has been committed, intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for intentionally omitting to give information about an offence?",
+                            "id": "q523",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 160
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever, knowing or having reason to believe that an offence has been committed, gives any information respecting that offence which he knows or believes to be false, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for giving false information about an offence?",
+                            "id": "q524",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 127
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever secretes or destroys any document or electronic record which he may be lawfully compelled to produce as evidence in a Court or in any proceeding lawfully held before a public servant, as such, or obliterates or renders illegible the whole or any part of such document or electronic record with the intention of preventing the same from being produced or used as evidence before such Court or public servant as aforesaid, or after he shall have been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for secreting or destroying a document or electronic record that is lawfully required for evidence?",
+                            "id": "q525",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 210
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever falsely personates another, and in such assumed character makes any admission or statement, or confesses judgment, or causes any process to be issued or becomes bail or security, or does any other act in any suit or criminal prosecution, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for falsely personating another in a suit or criminal prosecution?",
+                            "id": "q526",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                                "answer_start": 169
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever fraudulently removes, conceals, transfers or delivers to any person any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court in a civil suit, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for fraudulently removing or concealing property to prevent it from being taken by the Court?",
+                            "id": "q527",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 211
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever fraudulently accepts, receives or claims any property or any interest therein, knowing that he has no right or rightful claim to such property or interest, or practises any deception touching any right to any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court in a civil suit, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for fraudulently accepting property with no rightful claim to it?",
+                            "id": "q528",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 238
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due or for a larger sum than is due to such person or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for fraudulently causing a decree or order to be passed for a sum not due?",
+                            "id": "q529",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 291
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for making a false claim in a Court with fraudulent intent?",
+                            "id": "q530",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.",
+                                "answer_start": 150
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever fraudulently obtains a decree or order against any person for a sum not due, or for a larger sum than is due or for any property or interest in property to which he is not entitled, or fraudulently causes a decree or order to be executed against any person after it has been satisfied or for anything in respect of which it has been satisfied, or fraudulently suffers or permits any such act to be done in his name, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for fraudulently obtaining a decree or order for an incorrect amount or property?",
+                            "id": "q531",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 182
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine which may extend to two lakh rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for falsely charging someone with a crime?",
+                            "id": "q532",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to five years, or with fine which may extend to two lakh rupees, or with both.",
+                                "answer_start": 229
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for falsely charging someone with a serious offence punishable with death or life imprisonment?",
+                            "id": "q533",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+                                "answer_start": 285
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment shall,— (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment which may extend to one year, and not to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for harbouring or concealing an offender knowing they have committed a punishable offence?",
+                            "id": "q534",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.",
+                                "answer_start": 237
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "This section shall not extend to any case in which the harbour or concealment is by the spouse of the offender.",
+                        "qas": [
+                          {
+                            "question": "Is there an exception for a spouse harbouring or concealing an offender?",
+                            "id": "q535",
+                            "answers": [
+                              {
+                                "text": "Yes, this section shall not extend to any case in which the harbour or concealment is by the spouse of the offender.",
+                                "answer_start": 328
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever accepts or attempts to obtain, or agrees to accept, any gratification for himself or any other person, or any restitution of property to himself or any other person, in consideration of his concealing an offence or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,— (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for accepting gratification to conceal an offence or screen a person from legal punishment?",
+                            "id": "q536",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                                "answer_start": 209
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,— (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for giving gratification to conceal an offence or screen a person from legal punishment?",
+                            "id": "q537",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                                "answer_start": 209
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "The provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.",
+                        "qas": [
+                          {
+                            "question": "Is there any exception to the provisions of Sections 250 and 251?",
+                            "id": "q538",
+                            "answers": [
+                              {
+                                "text": "Yes, the provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.",
+                                "answer_start": 91
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever takes or agrees or consents to take any gratification under pretence or on account of helping any person to recover any movable property of which he shall have been deprived by any offence punishable under this Sanhita, shall, unless he uses all means in his power to cause the offender to be apprehended and convicted of the offence, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for taking gratification for helping someone recover movable property?",
+                            "id": "q539",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 129
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whenever any person convicted of or charged with an offence, being in lawful custody for that offence, escapes from such custody, or whenever a public servant, in the exercise of the lawful powers of such public servant, orders a certain person to be apprehended for an offence, whoever, knowing of such escape or order for apprehension, harbours or conceals that person with the intention of preventing him from being apprehended, shall be punished in the manner following, namely:–– (a) if the offence for which the person was in custody or is ordered to be apprehended is punishable with death, he shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life or imprisonment for ten years, he shall be punished with imprisonment of either description for a term which may extend to three years, with or without fine; (c) if the offence is punishable with imprisonment which may extend to one year and not to ten years, he shall be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of the imprisonment provided for such offence, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for harbouring or concealing a person who escaped lawful custody or is ordered to be apprehended?",
+                            "id": "q540",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                                "answer_start": 205
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or dacoity, harbours them or any of them, with the intention of facilitating the commission of such robbery or dacoity, or of screening them or any of them from punishment, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for harbouring persons involved in robbery or dacoity?",
+                            "id": "q541",
+                            "answers": [
+                              {
+                                "text": "Rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+                                "answer_start": 138
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or subject him to a less punishment than that to which he is liable, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or any charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a public servant who disobeys a lawful direction to save someone from punishment or property from forfeiture?",
+                            "id": "q542",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 213
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, being a public servant, and being as such public servant, charged with the preparation of any record or other writing, frames that record or writing in a manner which he knows to be incorrect, with intent to cause, or knowing it to be likely that he will thereby cause, loss or injury to the public or to any person, or with intent thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or other charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a public servant who frames a record or writing incorrectly with intent to cause injury or loss?",
+                            "id": "q543",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                                "answer_start": 251
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, being a public servant, corruptly or maliciously makes or pronounces in any stage of a judicial proceeding, any report, order, verdict, or decision which he knows to be contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a public servant who makes a decision contrary to law in a judicial proceeding?",
+                            "id": "q544",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+                                "answer_start": 192
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, being in any office which gives him legal authority to commit persons for trial or to confinement, or to keep persons in confinement, corruptly or maliciously commits any person for trial or to confinement, or keeps any person in confinement, in the exercise of that authority knowing that in so doing he is acting contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a public servant who corruptly or maliciously commits a person for trial or confinement contrary to law?",
+                            "id": "q545",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+                                "answer_start": 212
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person charged with or liable to be apprehended for an offence, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished,–– (a) with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with death; or (b) with imprisonment of either description for a term which may extend to three years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years; or (c) with imprisonment of either description for a term which may extend to two years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for a term less than ten years.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a public servant who intentionally allows a person to escape from confinement?",
+                            "id": "q546",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, with or without fine.",
+                                "answer_start": 323
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person under sentence of a Court for any offence or lawfully committed to custody, intentionally omits to apprehend such person, or intentionally suffers such person to escape or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished,— (a) with imprisonment for life or with imprisonment of either description for a term which may extend to fourteen years, with or without fine, if the person in confinement, or who ought to have been apprehended, is under sentence of death; or (b) with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement or who ought to have been apprehended, is subject, by a sentence of a Court, or by virtue of a commutation of such sentence, to imprisonment for life or imprisonment for a term of ten years, or upwards; or (c) with imprisonment of either description for a term which may extend to three years, or with fine, or with both, if the person in confinement or who ought to have been apprehended, is subject by a sentence of a Court to imprisonment for a term not extending to ten years or if the person was lawfully committed to custody.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a public servant who allows a person under sentence of death to escape confinement?",
+                            "id": "q547",
+                            "answers": [
+                              {
+                                "text": "Imprisonment for life or with imprisonment of either description for a term which may extend to fourteen years, with or without fine.",
+                                "answer_start": 416
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever, being a public servant legally bound as such public servant to keep in confinement any person charged with or convicted of any offence or lawfully committed to custody, negligently suffers such person to escape from confinement, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a public servant who negligently allows a person to escape from confinement?",
+                            "id": "q548",
+                            "answers": [
+                              {
+                                "text": "Simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 173
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself for any offence with which he is charged or of which he has been convicted, or escapes or attempts to escape from any custody in which he is lawfully detained for any such offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. Explanation.—The punishment in this section is in addition to the punishment for which the person to be apprehended or detained in custody was liable for the offence with which he was charged, or of which he was convicted.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a person who resists lawful apprehension or escapes from custody for an offence?",
+                            "id": "q549",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 193
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, intentionally offers any resistance or illegal obstruction to the lawful apprehension of any other person for an offence, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained for an offence,— (a) shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; or (b) if the person to be apprehended, or the person rescued or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; or (c) if the person to be apprehended or rescued, or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with death, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; or (d) if the person to be apprehended or rescued, or attempted to be rescued, is liable under the sentence of a Court or by virtue of a commutation of such a sentence, to imprisonment for life, or imprisonment for a term of ten years or upwards, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; or (e) if the person to be apprehended or rescued, or attempted to be rescued, is under sentence of death, shall be punished with imprisonment for life or imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a person who resists or obstructs the lawful apprehension of another person?",
+                            "id": "q550",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 199
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is the punishment if the person to be apprehended is charged with an offence punishable with death?",
+                            "id": "q551",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+                                "answer_start": 266
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is the punishment if the person to be apprehended or rescued is under sentence of death?",
+                            "id": "q552",
+                            "answers": [
+                              {
+                                "text": "Imprisonment for life or imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.",
+                                "answer_start": 351
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 259, section 260 or section 261, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished— (a) if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and (b) if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment if a public servant intentionally omits to apprehend a person or suffers them to escape from confinement?",
+                            "id": "q553",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                                "answer_start": 163
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is the punishment if a public servant negligently omits to apprehend a person or suffers them to escape from confinement?",
+                            "id": "q554",
+                            "answers": [
+                              {
+                                "text": "Simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 215
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, in any case not provided for in section 262 or section 263 or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for a person who intentionally obstructs the lawful apprehension of himself or another person?",
+                            "id": "q555",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                                "answer_start": 235
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for someone who violates the conditions of a conditional remission of punishment?",
+                            "id": "q556",
+                            "answers": [
+                              {
+                                "text": "The punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.",
+                                "answer_start": 214
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for insulting or causing interruption to a public servant during a judicial proceeding?",
+                            "id": "q557",
+                            "answers": [
+                              {
+                                "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 156
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, by personation or otherwise, shall intentionally cause, or knowingly suffer himself to be returned, empanelled or sworn as an assessor in any case in which he knows that he is not entitled by law to be so returned, empanelled or sworn, or knowing himself to have been so returned, empanelled or sworn contrary to law, shall voluntarily serve as such assessor, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for personating or intentionally causing oneself to be empanelled as an assessor unlawfully?",
+                            "id": "q558",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 199
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, having been charged with an offence and released on bail bond or on bond, fails without sufficient cause (the burden of proving which shall lie upon him), to appear in Court in accordance with the terms of the bail or bond, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both. Explanation.—The punishment under this section is— (a) in addition to the punishment to which the offender would be liable on a conviction for the offence with which he has been charged; and (b) without prejudice to the power of the Court to order forfeiture of the bond.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for failing to appear in Court after being released on bail or bond?",
+                            "id": "q559",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                                "answer_start": 232
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right but a common nuisance is not excused on the ground that it causes some convenience or advantage.",
+                        "qas": [
+                          {
+                            "question": "What constitutes a public nuisance?",
+                            "id": "q560",
+                            "answers": [
+                              {
+                                "text": "An act or an illegal omission which causes any common injury, danger, or annoyance to the public or to the people in general who dwell or occupy property in the vicinity.",
+                                "answer_start": 169
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for unlawfully or negligently spreading the infection of a dangerous disease?",
+                            "id": "q561",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                                "answer_start": 174
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever malignantly does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for malignantly spreading the infection of a dangerous disease?",
+                            "id": "q562",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 174
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever knowingly disobeys any rule made by the Government for putting any mode of transport into a state of quarantine, or for regulating the intercourse of any such transport in a state of quarantine or for regulating the intercourse between places where an infectious disease prevails and other places, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for knowingly disobeying quarantine regulations?",
+                            "id": "q563",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                                "answer_start": 222
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever adulterates any article of food or drink, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for adulterating food or drink to make it noxious?",
+                            "id": "q564",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 170
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for selling noxious or unfit food or drink?",
+                            "id": "q565",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 183
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy or change the operation of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for, any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for adulterating a drug or medical preparation?",
+                            "id": "q566",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 213
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for selling or offering adulterated drugs?",
+                            "id": "q567",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 216
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for selling or offering a different drug or medical preparation than stated?",
+                            "id": "q568",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 172
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for corrupting or fouling public water sources?",
+                            "id": "q569",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 174
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to one thousand rupees.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for vitiating the atmosphere in a way that harms public health?",
+                            "id": "q570",
+                            "answers": [
+                              {
+                                "text": "Fine which may extend to one thousand rupees.",
+                                "answer_start": 169
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for driving or riding rashly or negligently on public ways?",
+                            "id": "q571",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+                                "answer_start": 184
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever navigates any vessel in a manner so rash or negligent as to endanger navigation human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for rash or negligent navigation of a vessel?",
+                            "id": "q572",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+                                "answer_start": 174
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever exhibits any false light, mark or buoy, intending or knowing it to be likely that such exhibition will mislead any navigator, shall be punished with imprisonment of either description for a term which may extend to seven years, and with fine which shall not be less than ten thousand rupees.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for exhibiting false light, mark, or buoy to mislead navigators?",
+                            "id": "q573",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, and with fine which shall not be less than ten thousand rupees.",
+                                "answer_start": 173
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever knowingly or negligently conveys, or causes to be conveyed for hire, any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life of that person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for endangering passengers by overloading a vessel?",
+                            "id": "q574",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 209
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, by doing any act, or by omitting to take order with any property in his possession or under his charge, causes danger, obstruction or injury to any person in any public way or public line of navigation, shall be punished with fine which may extend to five thousand rupees.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for causing danger or obstruction in public ways or navigation?",
+                            "id": "q575",
+                            "answers": [
+                              {
+                                "text": "Fine which may extend to five thousand rupees.",
+                                "answer_start": 215
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any person or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against any probable danger to human life from such poisonous substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for rash or negligent handling of poisonous substances?",
+                            "id": "q576",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 274
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to two thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for rash or negligent handling of fire or combustible matter?",
+                            "id": "q577",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to two thousand rupees, or with both.",
+                                "answer_start": 275
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for rash or negligent handling of explosive substances?",
+                            "id": "q578",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 274
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever does, with any machinery, any act so rashly or negligently as to endanger human life or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for rash or negligent handling of machinery?",
+                            "id": "q579",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 258
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, in pulling down, repairing or constructing any building, knowingly or negligently omits to take such measures with that building as is sufficient to guard against any probable danger to human life from the fall of that building, or of any part thereof, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for negligent handling of building construction, repair, or demolition?",
+                            "id": "q580",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 253
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever knowingly or negligently omits to take such measures with any animal in his possession as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for failing to guard against probable danger from an animal?",
+                            "id": "q581",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 229
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever commits a public nuisance in any case not otherwise punishable by this Sanhita shall be punished with fine which may extend to one thousand rupees.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for committing a public nuisance?",
+                            "id": "q582",
+                            "answers": [
+                              {
+                                "text": "Fine which may extend to one thousand rupees.",
+                                "answer_start": 114
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever repeats or continues a public nuisance, having been enjoined by any public servant who has lawful authority to issue such injunction not to repeat or continue such nuisance, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for repeating or continuing a public nuisance after being warned?",
+                            "id": "q583",
+                            "answers": [
+                              {
+                                "text": "Simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+                                "answer_start": 228
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "For the purposes of sub-section (2), a book, pamphlet, paper, writing, drawing, painting, representation, figure or any other object, including display of any content in electronic form shall be deemed to be obscene if it is lascivious or appeals to the prurient interest or if its effect, or (where it comprises two or more distinct items) the effect of any one of its items, is, if taken as a whole, such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it.",
+                        "qas": [
+                          {
+                            "question": "What qualifies an object to be deemed obscene under Section 294?",
+                            "id": "q584",
+                            "answers": [
+                              {
+                                "text": "If it is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely to read, see or hear it.",
+                                "answer_start": 241
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever— (a) sells, lets to hire, distributes, publicly exhibits or in any manner puts into circulation, or for purposes of sale, hire, distribution, public exhibition or circulation, makes, produces or has in his possession any obscene book, pamphlet, paper, drawing, painting, representation or figure or any other obscene object whatsoever in whatever manner; or (b) imports, exports or conveys any obscene object for any of the purposes aforesaid, or knowing or having reason to believe that such object will be sold, let to hire, distributed or publicly exhibited or in any manner put into circulation; or (c) takes part in or receives profits from any business in the course of which he knows or has reason to believe that any such obscene objects are, for any of the purposes aforesaid, made produced, purchased, kept, imported, exported, conveyed, publicly exhibited or in any manner put into circulation; or (d) advertises or makes known by any means whatsoever that any person is engaged or is ready to engage in any act which is an offence under this section, or that any such obscene object can be procured from or through any person; or (e) offers or attempts to do any act which is an offence under this section, shall be punished on first conviction with imprisonment of either description for a term which may extend to two years, and with fine which may extend to five thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to five years, and also with fine which may extend to ten thousand rupees.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for the first conviction under Section 294?",
+                            "id": "q585",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, and with fine which may extend to five thousand rupees.",
+                                "answer_start": 840
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is the punishment for subsequent convictions under Section 294?",
+                            "id": "q586",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to five years, and also with fine which may extend to ten thousand rupees.",
+                                "answer_start": 917
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "This section does not extend to— (a) any book, pamphlet, paper, writing, drawing, painting, representation or figure— (i) the publication of which is proved to be justified as being for the public good on the ground that such book, pamphlet, paper, writing, drawing, painting, representation or figure is in the interest of science, literature, art or learning or other objects of general concern; or (ii) which is kept or used bona fide for religious purposes; (b) any representation sculptured, engraved, painted or otherwise represented on or in— (i) any ancient monument within the meaning of the Ancient Monuments and Archaeological Sites and Remains Act, 1958; or (ii) any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.",
+                        "qas": [
+                          {
+                            "question": "What are the exceptions to the provisions of Section 294?",
+                            "id": "q587",
+                            "answers": [
+                              {
+                                "text": "Publications justified for public good in the interest of science, literature, art, or learning; bona fide religious purposes; and representations on ancient monuments or temples.",
+                                "answer_start": 75
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever sells, lets to hire, distributes, exhibits or circulates to any child any such obscene object as is referred to in section 294, or offers or attempts so to do, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and with fine which may extend to two thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to seven years, and also with fine which may extend to five thousand rupees.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for the first conviction under Section 295?",
+                            "id": "q588",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, and with fine which may extend to two thousand rupees.",
+                                "answer_start": 223
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is the punishment for subsequent convictions under Section 295?",
+                            "id": "q589",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to seven years, and also with fine which may extend to five thousand rupees.",
+                                "answer_start": 319
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, to the annoyance of others,— (a) does any obscene act in any public place; or (b) sings, recites or utters any obscene song, ballad or words, in or near any public place, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for committing an obscene act in public under Section 296?",
+                            "id": "q590",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.",
+                                "answer_start": 249
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever keeps any office or place for the purpose of drawing any lottery not being a State lottery or a lottery authorised by the State Government, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. Whoever publishes any proposal to pay any sum, or to deliver any goods, or to do or forbear from doing anything for the benefit of any person, on any event or contingency relative or applicable to the drawing of any ticket, lot, number or figure in any such lottery, shall be punished with fine which may extend to five thousand rupees.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for keeping an office for unauthorized lotteries under Section 297?",
+                            "id": "q591",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+                                "answer_start": 203
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is the punishment for publishing proposals related to unauthorized lotteries?",
+                            "id": "q592",
+                            "answers": [
+                              {
+                                "text": "Fine which may extend to five thousand rupees.",
+                                "answer_start": 456
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons with the intention of thereby insulting the religion of any class of persons or with the knowledge that any class of persons is likely to consider such destruction, damage or defilement as an insult to their religion, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for insulting religion by damaging sacred objects under Section 298?",
+                            "id": "q593",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+                                "answer_start": 372
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, with deliberate and malicious intention of outraging the religious feelings of any class of citizens of India, by words, either spoken or written, or by signs or by visible representations or through electronic means or otherwise, insults or attempts to insult the religion or the religious beliefs of that class, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for outraging religious feelings under Section 299?",
+                            "id": "q594",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+                                "answer_start": 348
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship, or religious ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for disturbing a religious assembly under Section 300?",
+                            "id": "q595",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                                "answer_start": 189
+                              }
+                            ]
+                          }
+                        ]
+                      },{
+                        "context": "Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person, or with the knowledge that the feelings of any person are likely to be wounded, or that the religion of any person is likely to be insulted thereby, commits any trespass in any place of worship or on any place of sepulchre, or any place set apart for the performance of funeral rites or as a depository for the remains of the dead, or offers any indignity to any human corpse, or causes disturbance to any persons assembled for the performance of funeral ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for trespassing in places of worship or sepulchres under Section 301?",
+                            "id": "q596",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                                "answer_start": 488
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                        "qas": [
+                          {
+                            "question": "What is the punishment for wounding religious feelings through words or gestures under Section 302?",
+                            "id": "q597",
+                            "answers": [
+                              {
+                                "text": "Imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+                                "answer_start": 317
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person’s consent, moves that property in order to such taking, is said to commit theft. Explanation 1.—A thing so long as it is attached to the earth, not being movable property, is not the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth. Explanation 2.—A moving effected by the same act which affects the severance may be a theft. Explanation 3.—A person is said to cause a thing to move by removing an obstacle which prevented it from moving or by separating it from any other thing, as well as by actually moving it. Explanation 4.—A person, who by any means causes an animal to move, is said to move that animal, and to move everything which, in consequence of the motion so caused, is moved by that animal. Explanation 5.—The consent mentioned in this section may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.",
+                        "qas": [
+                          {
+                            "question": "What constitutes theft under Section 303?",
+                            "id": "q598",
+                            "answers": [
+                              {
+                                "text": "Intending to take dishonestly any movable property out of the possession of any person without that person’s consent, moves that property in order to such taking.",
+                                "answer_start": 8
+                              }
+                            ]
+                          },
+                          {
+                            "question": "When does a thing become the subject of theft under Explanation 1?",
+                            "id": "q599",
+                            "answers": [
+                              {
+                                "text": "As soon as it is severed from the earth.",
+                                "answer_start": 269
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What does Explanation 3 state about causing a thing to move?",
+                            "id": "q600",
+                            "answers": [
+                              {
+                                "text": "A person is said to cause a thing to move by removing an obstacle which prevented it from moving or by separating it from any other thing, as well as by actually moving it.",
+                                "answer_start": 394
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "context": "Illustrations: (a) A cuts down a tree on Z’s ground, with the intention of dishonestly taking the tree out of Z’s possession without Z’s consent. Here, as soon as A has severed the tree in order to such taking, he has committed theft. (b) A puts a bait for dogs in his pocket, and thus induces Z’s dog to follow it. Here, if A’s intention be dishonestly to take the dog out of Z’s possession without Z’s consent. A has committed theft as soon as Z’s dog has begun to follow A. (c) A meets a bullock carrying a box of treasure. He drives the bullock in a certain direction, in order that he may dishonestly take the treasure. As soon as the bullock begins to move, A has committed theft of the treasure. (d) A being Z’s servant, and entrusted by Z with the care of Z’s plate, dishonestly runs away with the plate, without Z’s consent. A has committed theft. (e) Z, going on a journey, entrusts his plate to A, the keeper of a warehouse, till Z shall return. A carries the plate to a goldsmith and sells it. Here the plate was not in Z’s possession. It could not therefore be taken out of Z’s possession, and A has not committed theft, though he may have committed criminal breach of trust.",
+                        "qas": [
+                          {
+                            "question": "What constitutes theft in Illustration (a)?",
+                            "id": "q601",
+                            "answers": [
+                              {
+                                "text": "As soon as A has severed the tree in order to such taking, he has committed theft.",
+                                "answer_start": 149
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is described in Illustration (b) regarding theft?",
+                            "id": "q602",
+                            "answers": [
+                              {
+                                "text": "A puts a bait for dogs in his pocket, and thus induces Z’s dog to follow it. Here, if A’s intention be dishonestly to take the dog out of Z’s possession without Z’s consent. A has committed theft as soon as Z’s dog has begun to follow A.",
+                                "answer_start": 207
+                              }
+                            ]
+                          },
+                          {
+                            "question": "What is stated in Illustration (e) about criminal breach of trust?",
+                            "id": "q603",
+                            "answers": [
+                              {
+                                "text": "The plate was not in Z’s possession. It could not therefore be taken out of Z’s possession, and A has not committed theft, though he may have committed criminal breach of trust.",
+                                "answer_start": 785
+                              }
+                            ]
+                          }
+                        ]
+                      },
+
+                  
+                      
+
+                
+                
+
         
-    ]
+        ]
 }
